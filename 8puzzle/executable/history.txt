@@ -1,0 +1,7586 @@
+
+----------------
+f: 14 g: 0 h: 14
+7 5 8 3 6 2 0 4 1 
+----------------
+openlist size = 2
+closedlist size = 1
+
+----------------
+f: 16 g: 1 h: 15
+7 5 8 3 6 2 4 0 1 
+----------------
+openlist size = 3
+closedlist size = 2
+
+----------------
+f: 16 g: 2 h: 14
+7 5 8 3 6 2 4 1 0 
+----------------
+openlist size = 3
+closedlist size = 3
+
+----------------
+f: 16 g: 2 h: 14
+7 5 8 3 0 2 4 6 1 
+----------------
+openlist size = 5
+closedlist size = 4
+
+----------------
+f: 16 g: 3 h: 13
+7 0 8 3 5 2 4 6 1 
+----------------
+openlist size = 6
+closedlist size = 5
+
+----------------
+f: 16 g: 4 h: 12
+0 7 8 3 5 2 4 6 1 
+----------------
+openlist size = 6
+closedlist size = 6
+
+----------------
+f: 16 g: 1 h: 15
+7 5 8 0 6 2 3 4 1 
+----------------
+openlist size = 7
+closedlist size = 7
+
+----------------
+f: 16 g: 2 h: 14
+7 5 8 6 0 2 3 4 1 
+----------------
+openlist size = 9
+closedlist size = 8
+
+----------------
+f: 16 g: 3 h: 13
+7 5 8 6 4 2 3 0 1 
+----------------
+openlist size = 10
+closedlist size = 9
+
+----------------
+f: 16 g: 4 h: 12
+7 5 8 6 4 2 3 1 0 
+----------------
+openlist size = 10
+closedlist size = 10
+
+----------------
+f: 16 g: 3 h: 13
+7 0 8 6 5 2 3 4 1 
+----------------
+openlist size = 11
+closedlist size = 11
+
+----------------
+f: 16 g: 4 h: 12
+0 7 8 6 5 2 3 4 1 
+----------------
+openlist size = 11
+closedlist size = 12
+
+----------------
+f: 16 g: 2 h: 14
+0 5 8 7 6 2 3 4 1 
+----------------
+openlist size = 11
+closedlist size = 13
+
+----------------
+f: 18 g: 3 h: 15
+5 0 8 7 6 2 3 4 1 
+----------------
+openlist size = 12
+closedlist size = 14
+
+----------------
+f: 18 g: 5 h: 13
+6 7 8 0 5 2 3 4 1 
+----------------
+openlist size = 13
+closedlist size = 15
+
+----------------
+f: 18 g: 6 h: 12
+6 7 8 3 5 2 0 4 1 
+----------------
+openlist size = 13
+closedlist size = 16
+
+----------------
+f: 18 g: 4 h: 14
+7 8 0 6 5 2 3 4 1 
+----------------
+openlist size = 13
+closedlist size = 17
+
+----------------
+f: 18 g: 5 h: 13
+7 8 2 6 5 0 3 4 1 
+----------------
+openlist size = 14
+closedlist size = 18
+
+----------------
+f: 18 g: 6 h: 12
+7 8 2 6 0 5 3 4 1 
+----------------
+openlist size = 16
+closedlist size = 19
+
+----------------
+f: 18 g: 7 h: 11
+7 8 2 6 4 5 3 0 1 
+----------------
+openlist size = 17
+closedlist size = 20
+
+----------------
+f: 18 g: 8 h: 10
+7 8 2 6 4 5 3 1 0 
+----------------
+openlist size = 17
+closedlist size = 21
+
+----------------
+f: 18 g: 7 h: 11
+7 0 2 6 8 5 3 4 1 
+----------------
+openlist size = 18
+closedlist size = 22
+
+----------------
+f: 18 g: 8 h: 10
+0 7 2 6 8 5 3 4 1 
+----------------
+openlist size = 18
+closedlist size = 23
+
+----------------
+f: 18 g: 6 h: 12
+7 8 2 6 5 1 3 4 0 
+----------------
+openlist size = 18
+closedlist size = 24
+
+----------------
+f: 18 g: 5 h: 13
+7 5 8 6 4 0 3 1 2 
+----------------
+openlist size = 19
+closedlist size = 25
+
+----------------
+f: 18 g: 6 h: 12
+7 5 0 6 4 8 3 1 2 
+----------------
+openlist size = 19
+closedlist size = 26
+
+----------------
+f: 18 g: 7 h: 11
+7 0 5 6 4 8 3 1 2 
+----------------
+openlist size = 20
+closedlist size = 27
+
+----------------
+f: 18 g: 8 h: 10
+0 7 5 6 4 8 3 1 2 
+----------------
+openlist size = 20
+closedlist size = 28
+
+----------------
+f: 18 g: 4 h: 14
+7 5 8 6 4 2 0 3 1 
+----------------
+openlist size = 20
+closedlist size = 29
+
+----------------
+f: 18 g: 5 h: 13
+7 5 8 0 4 2 6 3 1 
+----------------
+openlist size = 21
+closedlist size = 30
+
+----------------
+f: 18 g: 6 h: 12
+0 5 8 7 4 2 6 3 1 
+----------------
+openlist size = 21
+closedlist size = 31
+
+----------------
+f: 18 g: 3 h: 15
+7 5 8 6 2 0 3 4 1 
+----------------
+openlist size = 22
+closedlist size = 32
+
+----------------
+f: 18 g: 4 h: 14
+7 5 8 6 2 1 3 4 0 
+----------------
+openlist size = 22
+closedlist size = 33
+
+----------------
+f: 18 g: 4 h: 14
+7 5 0 6 2 8 3 4 1 
+----------------
+openlist size = 22
+closedlist size = 34
+
+----------------
+f: 18 g: 5 h: 13
+7 0 5 6 2 8 3 4 1 
+----------------
+openlist size = 23
+closedlist size = 35
+
+----------------
+f: 18 g: 6 h: 12
+0 7 5 6 2 8 3 4 1 
+----------------
+openlist size = 23
+closedlist size = 36
+
+----------------
+f: 18 g: 6 h: 12
+7 2 5 6 0 8 3 4 1 
+----------------
+openlist size = 25
+closedlist size = 37
+
+----------------
+f: 18 g: 7 h: 11
+7 2 5 6 4 8 3 0 1 
+----------------
+openlist size = 26
+closedlist size = 38
+
+----------------
+f: 18 g: 8 h: 10
+7 2 5 6 4 8 3 1 0 
+----------------
+openlist size = 26
+closedlist size = 39
+
+----------------
+f: 18 g: 9 h: 9
+7 2 5 6 4 0 3 1 8 
+----------------
+openlist size = 27
+closedlist size = 40
+
+----------------
+f: 18 g: 10 h: 8
+7 2 0 6 4 5 3 1 8 
+----------------
+openlist size = 27
+closedlist size = 41
+
+----------------
+f: 18 g: 11 h: 7
+7 0 2 6 4 5 3 1 8 
+----------------
+openlist size = 28
+closedlist size = 42
+
+----------------
+f: 18 g: 12 h: 6
+0 7 2 6 4 5 3 1 8 
+----------------
+openlist size = 28
+closedlist size = 43
+
+----------------
+f: 18 g: 5 h: 13
+3 7 8 0 5 2 4 6 1 
+----------------
+openlist size = 29
+closedlist size = 44
+
+----------------
+f: 18 g: 6 h: 12
+3 7 8 4 5 2 0 6 1 
+----------------
+openlist size = 29
+closedlist size = 45
+
+----------------
+f: 18 g: 7 h: 11
+3 7 8 4 5 2 6 0 1 
+----------------
+openlist size = 30
+closedlist size = 46
+
+----------------
+f: 18 g: 8 h: 10
+3 7 8 4 5 2 6 1 0 
+----------------
+openlist size = 30
+closedlist size = 47
+
+----------------
+f: 18 g: 4 h: 14
+7 8 0 3 5 2 4 6 1 
+----------------
+openlist size = 30
+closedlist size = 48
+
+----------------
+f: 18 g: 5 h: 13
+7 8 2 3 5 0 4 6 1 
+----------------
+openlist size = 31
+closedlist size = 49
+
+----------------
+f: 18 g: 6 h: 12
+7 8 2 3 0 5 4 6 1 
+----------------
+openlist size = 33
+closedlist size = 50
+
+----------------
+f: 18 g: 7 h: 11
+7 0 2 3 8 5 4 6 1 
+----------------
+openlist size = 34
+closedlist size = 51
+
+----------------
+f: 18 g: 8 h: 10
+0 7 2 3 8 5 4 6 1 
+----------------
+openlist size = 34
+closedlist size = 52
+
+----------------
+f: 18 g: 6 h: 12
+7 8 2 3 5 1 4 6 0 
+----------------
+openlist size = 34
+closedlist size = 53
+
+----------------
+f: 18 g: 3 h: 15
+7 5 8 3 2 0 4 6 1 
+----------------
+openlist size = 35
+closedlist size = 54
+
+----------------
+f: 18 g: 4 h: 14
+7 5 8 3 2 1 4 6 0 
+----------------
+openlist size = 35
+closedlist size = 55
+
+----------------
+f: 18 g: 4 h: 14
+7 5 0 3 2 8 4 6 1 
+----------------
+openlist size = 35
+closedlist size = 56
+
+----------------
+f: 18 g: 5 h: 13
+7 0 5 3 2 8 4 6 1 
+----------------
+openlist size = 36
+closedlist size = 57
+
+----------------
+f: 18 g: 6 h: 12
+0 7 5 3 2 8 4 6 1 
+----------------
+openlist size = 36
+closedlist size = 58
+
+----------------
+f: 18 g: 6 h: 12
+7 2 5 3 0 8 4 6 1 
+----------------
+openlist size = 38
+closedlist size = 59
+
+----------------
+f: 18 g: 3 h: 15
+7 5 8 0 3 2 4 6 1 
+----------------
+openlist size = 39
+closedlist size = 60
+
+----------------
+f: 18 g: 4 h: 14
+7 5 8 4 3 2 0 6 1 
+----------------
+openlist size = 39
+closedlist size = 61
+
+----------------
+f: 18 g: 5 h: 13
+7 5 8 4 3 2 6 0 1 
+----------------
+openlist size = 39
+closedlist size = 62
+
+----------------
+f: 18 g: 6 h: 12
+7 5 8 4 3 2 6 1 0 
+----------------
+openlist size = 39
+closedlist size = 63
+
+----------------
+f: 18 g: 4 h: 14
+0 5 8 7 3 2 4 6 1 
+----------------
+openlist size = 39
+closedlist size = 64
+
+----------------
+f: 18 g: 3 h: 15
+7 5 8 3 6 0 4 1 2 
+----------------
+openlist size = 40
+closedlist size = 65
+
+----------------
+f: 18 g: 4 h: 14
+7 5 0 3 6 8 4 1 2 
+----------------
+openlist size = 40
+closedlist size = 66
+
+----------------
+f: 18 g: 5 h: 13
+7 0 5 3 6 8 4 1 2 
+----------------
+openlist size = 41
+closedlist size = 67
+
+----------------
+f: 18 g: 6 h: 12
+0 7 5 3 6 8 4 1 2 
+----------------
+openlist size = 41
+closedlist size = 68
+
+----------------
+f: 20 g: 7 h: 13
+3 7 5 0 6 8 4 1 2 
+----------------
+openlist size = 42
+closedlist size = 69
+
+----------------
+f: 20 g: 8 h: 12
+3 7 5 6 0 8 4 1 2 
+----------------
+openlist size = 44
+closedlist size = 70
+
+----------------
+f: 20 g: 9 h: 11
+3 7 5 6 1 8 4 0 2 
+----------------
+openlist size = 45
+closedlist size = 71
+
+----------------
+f: 20 g: 10 h: 10
+3 7 5 6 1 8 0 4 2 
+----------------
+openlist size = 45
+closedlist size = 72
+
+----------------
+f: 20 g: 11 h: 9
+3 7 5 0 1 8 6 4 2 
+----------------
+openlist size = 46
+closedlist size = 73
+
+----------------
+f: 20 g: 12 h: 8
+0 7 5 3 1 8 6 4 2 
+----------------
+openlist size = 46
+closedlist size = 74
+
+----------------
+f: 20 g: 9 h: 11
+3 0 5 6 7 8 4 1 2 
+----------------
+openlist size = 47
+closedlist size = 75
+
+----------------
+f: 20 g: 8 h: 12
+3 7 5 4 6 8 0 1 2 
+----------------
+openlist size = 47
+closedlist size = 76
+
+----------------
+f: 20 g: 6 h: 14
+7 6 5 3 0 8 4 1 2 
+----------------
+openlist size = 49
+closedlist size = 77
+
+----------------
+f: 20 g: 7 h: 13
+7 6 5 3 1 8 4 0 2 
+----------------
+openlist size = 50
+closedlist size = 78
+
+----------------
+f: 20 g: 8 h: 12
+7 6 5 3 1 8 0 4 2 
+----------------
+openlist size = 50
+closedlist size = 79
+
+----------------
+f: 20 g: 4 h: 16
+7 5 8 3 0 6 4 1 2 
+----------------
+openlist size = 52
+closedlist size = 80
+
+----------------
+f: 20 g: 5 h: 15
+7 5 8 3 1 6 4 0 2 
+----------------
+openlist size = 53
+closedlist size = 81
+
+----------------
+f: 20 g: 6 h: 14
+7 5 8 3 1 6 0 4 2 
+----------------
+openlist size = 53
+closedlist size = 82
+
+----------------
+f: 20 g: 5 h: 15
+7 0 8 3 5 6 4 1 2 
+----------------
+openlist size = 54
+closedlist size = 83
+
+----------------
+f: 20 g: 6 h: 14
+0 7 8 3 5 6 4 1 2 
+----------------
+openlist size = 54
+closedlist size = 84
+
+----------------
+f: 20 g: 5 h: 15
+5 0 8 7 3 2 4 6 1 
+----------------
+openlist size = 55
+closedlist size = 85
+
+----------------
+f: 20 g: 7 h: 13
+7 5 8 4 3 0 6 1 2 
+----------------
+openlist size = 56
+closedlist size = 86
+
+----------------
+f: 20 g: 8 h: 12
+7 5 0 4 3 8 6 1 2 
+----------------
+openlist size = 56
+closedlist size = 87
+
+----------------
+f: 20 g: 9 h: 11
+7 0 5 4 3 8 6 1 2 
+----------------
+openlist size = 57
+closedlist size = 88
+
+----------------
+f: 20 g: 10 h: 10
+0 7 5 4 3 8 6 1 2 
+----------------
+openlist size = 57
+closedlist size = 89
+
+----------------
+f: 20 g: 7 h: 13
+7 2 5 3 8 0 4 6 1 
+----------------
+openlist size = 57
+closedlist size = 90
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 3 8 1 4 6 0 
+----------------
+openlist size = 57
+closedlist size = 91
+
+----------------
+f: 20 g: 7 h: 13
+7 2 5 0 3 8 4 6 1 
+----------------
+openlist size = 58
+closedlist size = 92
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 4 3 8 0 6 1 
+----------------
+openlist size = 58
+closedlist size = 93
+
+----------------
+f: 20 g: 9 h: 11
+7 2 5 4 3 8 6 0 1 
+----------------
+openlist size = 59
+closedlist size = 94
+
+----------------
+f: 20 g: 10 h: 10
+7 2 5 4 3 8 6 1 0 
+----------------
+openlist size = 59
+closedlist size = 95
+
+----------------
+f: 20 g: 11 h: 9
+7 2 5 4 3 0 6 1 8 
+----------------
+openlist size = 60
+closedlist size = 96
+
+----------------
+f: 20 g: 12 h: 8
+7 2 0 4 3 5 6 1 8 
+----------------
+openlist size = 60
+closedlist size = 97
+
+----------------
+f: 20 g: 13 h: 7
+7 0 2 4 3 5 6 1 8 
+----------------
+openlist size = 61
+closedlist size = 98
+
+----------------
+f: 20 g: 14 h: 6
+0 7 2 4 3 5 6 1 8 
+----------------
+openlist size = 61
+closedlist size = 99
+
+----------------
+f: 20 g: 8 h: 12
+0 2 5 7 3 8 4 6 1 
+----------------
+openlist size = 61
+closedlist size = 100
+
+----------------
+f: 20 g: 7 h: 13
+7 2 5 3 6 8 4 0 1 
+----------------
+openlist size = 62
+closedlist size = 101
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 3 6 8 4 1 0 
+----------------
+openlist size = 62
+closedlist size = 102
+
+----------------
+f: 20 g: 9 h: 11
+7 2 5 3 6 0 4 1 8 
+----------------
+openlist size = 63
+closedlist size = 103
+
+----------------
+f: 20 g: 10 h: 10
+7 2 0 3 6 5 4 1 8 
+----------------
+openlist size = 63
+closedlist size = 104
+
+----------------
+f: 20 g: 11 h: 9
+7 0 2 3 6 5 4 1 8 
+----------------
+openlist size = 64
+closedlist size = 105
+
+----------------
+f: 20 g: 12 h: 8
+0 7 2 3 6 5 4 1 8 
+----------------
+openlist size = 64
+closedlist size = 106
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 3 6 8 0 4 1 
+----------------
+openlist size = 63
+closedlist size = 107
+
+----------------
+f: 20 g: 7 h: 13
+3 7 5 0 2 8 4 6 1 
+----------------
+openlist size = 64
+closedlist size = 108
+
+----------------
+f: 20 g: 8 h: 12
+3 7 5 4 2 8 0 6 1 
+----------------
+openlist size = 64
+closedlist size = 109
+
+----------------
+f: 20 g: 9 h: 11
+3 7 5 4 2 8 6 0 1 
+----------------
+openlist size = 65
+closedlist size = 110
+
+----------------
+f: 20 g: 10 h: 10
+3 7 5 4 2 8 6 1 0 
+----------------
+openlist size = 65
+closedlist size = 111
+
+----------------
+f: 20 g: 11 h: 9
+3 7 5 4 2 0 6 1 8 
+----------------
+openlist size = 66
+closedlist size = 112
+
+----------------
+f: 20 g: 12 h: 8
+3 7 5 4 0 2 6 1 8 
+----------------
+openlist size = 68
+closedlist size = 113
+
+----------------
+f: 20 g: 13 h: 7
+3 7 5 0 4 2 6 1 8 
+----------------
+openlist size = 69
+closedlist size = 114
+
+----------------
+f: 20 g: 14 h: 6
+0 7 5 3 4 2 6 1 8 
+----------------
+openlist size = 69
+closedlist size = 115
+
+----------------
+f: 20 g: 13 h: 7
+3 7 5 4 1 2 6 0 8 
+----------------
+openlist size = 70
+closedlist size = 116
+
+----------------
+f: 20 g: 13 h: 7
+3 0 5 4 7 2 6 1 8 
+----------------
+openlist size = 71
+closedlist size = 117
+
+----------------
+f: 20 g: 12 h: 8
+3 7 0 4 2 5 6 1 8 
+----------------
+openlist size = 71
+closedlist size = 118
+
+----------------
+f: 20 g: 5 h: 15
+7 5 8 3 2 1 4 0 6 
+----------------
+openlist size = 72
+closedlist size = 119
+
+----------------
+f: 20 g: 6 h: 14
+7 5 8 3 2 1 0 4 6 
+----------------
+openlist size = 72
+closedlist size = 120
+
+----------------
+f: 20 g: 7 h: 13
+7 8 2 3 5 1 4 0 6 
+----------------
+openlist size = 73
+closedlist size = 121
+
+----------------
+f: 20 g: 8 h: 12
+7 8 2 3 5 1 0 4 6 
+----------------
+openlist size = 73
+closedlist size = 122
+
+----------------
+f: 20 g: 9 h: 11
+3 7 2 0 8 5 4 6 1 
+----------------
+openlist size = 74
+closedlist size = 123
+
+----------------
+f: 20 g: 10 h: 10
+3 7 2 4 8 5 0 6 1 
+----------------
+openlist size = 74
+closedlist size = 124
+
+----------------
+f: 20 g: 11 h: 9
+3 7 2 4 8 5 6 0 1 
+----------------
+openlist size = 75
+closedlist size = 125
+
+----------------
+f: 20 g: 12 h: 8
+3 7 2 4 8 5 6 1 0 
+----------------
+openlist size = 75
+closedlist size = 126
+
+----------------
+f: 20 g: 12 h: 8
+3 7 2 4 0 5 6 8 1 
+----------------
+openlist size = 77
+closedlist size = 127
+
+----------------
+f: 20 g: 13 h: 7
+3 7 2 0 4 5 6 8 1 
+----------------
+openlist size = 78
+closedlist size = 128
+
+----------------
+f: 20 g: 14 h: 6
+0 7 2 3 4 5 6 8 1 
+----------------
+openlist size = 78
+closedlist size = 129
+
+----------------
+f: 20 g: 13 h: 7
+3 0 2 4 7 5 6 8 1 
+----------------
+openlist size = 79
+closedlist size = 130
+
+----------------
+f: 20 g: 8 h: 12
+7 2 0 3 8 5 4 6 1 
+----------------
+openlist size = 78
+closedlist size = 131
+
+----------------
+f: 20 g: 7 h: 13
+7 8 2 0 3 5 4 6 1 
+----------------
+openlist size = 79
+closedlist size = 132
+
+----------------
+f: 20 g: 8 h: 12
+7 8 2 4 3 5 0 6 1 
+----------------
+openlist size = 79
+closedlist size = 133
+
+----------------
+f: 20 g: 9 h: 11
+7 8 2 4 3 5 6 0 1 
+----------------
+openlist size = 80
+closedlist size = 134
+
+----------------
+f: 20 g: 10 h: 10
+7 8 2 4 3 5 6 1 0 
+----------------
+openlist size = 80
+closedlist size = 135
+
+----------------
+f: 20 g: 8 h: 12
+0 8 2 7 3 5 4 6 1 
+----------------
+openlist size = 80
+closedlist size = 136
+
+----------------
+f: 20 g: 7 h: 13
+7 8 2 3 6 5 4 0 1 
+----------------
+openlist size = 81
+closedlist size = 137
+
+----------------
+f: 20 g: 8 h: 12
+7 8 2 3 6 5 4 1 0 
+----------------
+openlist size = 81
+closedlist size = 138
+
+----------------
+f: 20 g: 8 h: 12
+7 8 2 3 6 5 0 4 1 
+----------------
+openlist size = 80
+closedlist size = 139
+
+----------------
+f: 20 g: 9 h: 11
+3 7 8 4 5 0 6 1 2 
+----------------
+openlist size = 81
+closedlist size = 140
+
+----------------
+f: 20 g: 10 h: 10
+3 7 8 4 0 5 6 1 2 
+----------------
+openlist size = 83
+closedlist size = 141
+
+----------------
+f: 20 g: 11 h: 9
+3 7 8 0 4 5 6 1 2 
+----------------
+openlist size = 84
+closedlist size = 142
+
+----------------
+f: 20 g: 12 h: 8
+0 7 8 3 4 5 6 1 2 
+----------------
+openlist size = 84
+closedlist size = 143
+
+----------------
+f: 20 g: 11 h: 9
+3 7 8 4 1 5 6 0 2 
+----------------
+openlist size = 85
+closedlist size = 144
+
+----------------
+f: 20 g: 11 h: 9
+3 0 8 4 7 5 6 1 2 
+----------------
+openlist size = 86
+closedlist size = 145
+
+----------------
+f: 20 g: 10 h: 10
+3 7 0 4 5 8 6 1 2 
+----------------
+openlist size = 86
+closedlist size = 146
+
+----------------
+f: 20 g: 8 h: 12
+3 7 8 4 0 2 6 5 1 
+----------------
+openlist size = 88
+closedlist size = 147
+
+----------------
+f: 20 g: 9 h: 11
+3 7 8 0 4 2 6 5 1 
+----------------
+openlist size = 89
+closedlist size = 148
+
+----------------
+f: 20 g: 10 h: 10
+0 7 8 3 4 2 6 5 1 
+----------------
+openlist size = 89
+closedlist size = 149
+
+----------------
+f: 20 g: 9 h: 11
+3 0 8 4 7 2 6 5 1 
+----------------
+openlist size = 90
+closedlist size = 150
+
+----------------
+f: 20 g: 6 h: 14
+3 7 8 5 0 2 4 6 1 
+----------------
+openlist size = 92
+closedlist size = 151
+
+----------------
+f: 20 g: 7 h: 13
+3 0 8 5 7 2 4 6 1 
+----------------
+openlist size = 93
+closedlist size = 152
+
+----------------
+f: 20 g: 13 h: 7
+6 7 2 0 4 5 3 1 8 
+----------------
+openlist size = 94
+closedlist size = 153
+
+----------------
+f: 20 g: 14 h: 6
+6 7 2 3 4 5 0 1 8 
+----------------
+openlist size = 94
+closedlist size = 154
+
+----------------
+f: 20 g: 12 h: 8
+7 4 2 6 0 5 3 1 8 
+----------------
+openlist size = 96
+closedlist size = 155
+
+----------------
+f: 20 g: 13 h: 7
+7 4 2 6 1 5 3 0 8 
+----------------
+openlist size = 97
+closedlist size = 156
+
+----------------
+f: 20 g: 10 h: 10
+7 2 5 6 0 4 3 1 8 
+----------------
+openlist size = 99
+closedlist size = 157
+
+----------------
+f: 20 g: 11 h: 9
+7 2 5 6 1 4 3 0 8 
+----------------
+openlist size = 100
+closedlist size = 158
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 6 4 8 0 3 1 
+----------------
+openlist size = 100
+closedlist size = 159
+
+----------------
+f: 20 g: 9 h: 11
+7 2 5 0 4 8 6 3 1 
+----------------
+openlist size = 100
+closedlist size = 160
+
+----------------
+f: 20 g: 10 h: 10
+0 2 5 7 4 8 6 3 1 
+----------------
+openlist size = 100
+closedlist size = 161
+
+----------------
+f: 20 g: 7 h: 13
+7 2 5 6 8 0 3 4 1 
+----------------
+openlist size = 100
+closedlist size = 162
+
+----------------
+f: 20 g: 8 h: 12
+7 2 5 6 8 1 3 4 0 
+----------------
+openlist size = 100
+closedlist size = 163
+
+----------------
+f: 20 g: 7 h: 13
+7 2 5 0 6 8 3 4 1 
+----------------
+openlist size = 100
+closedlist size = 164
+
+----------------
+f: 20 g: 8 h: 12
+0 2 5 7 6 8 3 4 1 
+----------------
+openlist size = 100
+closedlist size = 165
+
+----------------
+f: 20 g: 7 h: 13
+6 7 5 0 2 8 3 4 1 
+----------------
+openlist size = 101
+closedlist size = 166
+
+----------------
+f: 20 g: 8 h: 12
+6 7 5 3 2 8 0 4 1 
+----------------
+openlist size = 101
+closedlist size = 167
+
+----------------
+f: 20 g: 5 h: 15
+7 5 8 6 2 1 3 0 4 
+----------------
+openlist size = 102
+closedlist size = 168
+
+----------------
+f: 20 g: 7 h: 13
+5 0 8 7 4 2 6 3 1 
+----------------
+openlist size = 103
+closedlist size = 169
+
+----------------
+f: 20 g: 6 h: 14
+7 5 8 4 0 2 6 3 1 
+----------------
+openlist size = 104
+closedlist size = 170
+
+----------------
+f: 20 g: 7 h: 13
+7 0 8 4 5 2 6 3 1 
+----------------
+openlist size = 105
+closedlist size = 171
+
+----------------
+f: 20 g: 8 h: 12
+0 7 8 4 5 2 6 3 1 
+----------------
+openlist size = 105
+closedlist size = 172
+
+----------------
+f: 20 g: 9 h: 11
+6 7 5 0 4 8 3 1 2 
+----------------
+openlist size = 106
+closedlist size = 173
+
+----------------
+f: 20 g: 10 h: 10
+6 7 5 3 4 8 0 1 2 
+----------------
+openlist size = 106
+closedlist size = 174
+
+----------------
+f: 20 g: 8 h: 12
+7 4 5 6 0 8 3 1 2 
+----------------
+openlist size = 108
+closedlist size = 175
+
+----------------
+f: 20 g: 9 h: 11
+7 4 5 6 1 8 3 0 2 
+----------------
+openlist size = 109
+closedlist size = 176
+
+----------------
+f: 20 g: 6 h: 14
+7 5 8 6 0 4 3 1 2 
+----------------
+openlist size = 111
+closedlist size = 177
+
+----------------
+f: 20 g: 7 h: 13
+7 5 8 6 1 4 3 0 2 
+----------------
+openlist size = 112
+closedlist size = 178
+
+----------------
+f: 20 g: 7 h: 13
+7 0 8 6 5 4 3 1 2 
+----------------
+openlist size = 113
+closedlist size = 179
+
+----------------
+f: 20 g: 8 h: 12
+0 7 8 6 5 4 3 1 2 
+----------------
+openlist size = 113
+closedlist size = 180
+
+----------------
+f: 20 g: 7 h: 13
+7 8 2 6 5 1 3 0 4 
+----------------
+openlist size = 114
+closedlist size = 181
+
+----------------
+f: 20 g: 9 h: 11
+6 7 2 0 8 5 3 4 1 
+----------------
+openlist size = 115
+closedlist size = 182
+
+----------------
+f: 20 g: 10 h: 10
+6 7 2 3 8 5 0 4 1 
+----------------
+openlist size = 115
+closedlist size = 183
+
+----------------
+f: 20 g: 8 h: 12
+7 2 0 6 8 5 3 4 1 
+----------------
+openlist size = 114
+closedlist size = 184
+
+----------------
+f: 20 g: 9 h: 11
+7 8 2 6 4 0 3 1 5 
+----------------
+openlist size = 115
+closedlist size = 185
+
+----------------
+f: 20 g: 8 h: 12
+7 8 2 6 4 5 0 3 1 
+----------------
+openlist size = 115
+closedlist size = 186
+
+----------------
+f: 20 g: 9 h: 11
+7 8 2 0 4 5 6 3 1 
+----------------
+openlist size = 115
+closedlist size = 187
+
+----------------
+f: 20 g: 10 h: 10
+0 8 2 7 4 5 6 3 1 
+----------------
+openlist size = 115
+closedlist size = 188
+
+----------------
+f: 20 g: 7 h: 13
+7 8 2 0 6 5 3 4 1 
+----------------
+openlist size = 115
+closedlist size = 189
+
+----------------
+f: 20 g: 8 h: 12
+0 8 2 7 6 5 3 4 1 
+----------------
+openlist size = 115
+closedlist size = 190
+
+----------------
+f: 20 g: 7 h: 13
+6 7 8 3 5 2 4 0 1 
+----------------
+openlist size = 116
+closedlist size = 191
+
+----------------
+f: 20 g: 8 h: 12
+6 7 8 3 5 2 4 1 0 
+----------------
+openlist size = 116
+closedlist size = 192
+
+----------------
+f: 20 g: 6 h: 14
+6 7 8 5 0 2 3 4 1 
+----------------
+openlist size = 118
+closedlist size = 193
+
+----------------
+f: 20 g: 7 h: 13
+6 7 8 5 4 2 3 0 1 
+----------------
+openlist size = 119
+closedlist size = 194
+
+----------------
+f: 20 g: 8 h: 12
+6 7 8 5 4 2 3 1 0 
+----------------
+openlist size = 119
+closedlist size = 195
+
+----------------
+f: 20 g: 7 h: 13
+6 0 8 5 7 2 3 4 1 
+----------------
+openlist size = 120
+closedlist size = 196
+
+----------------
+f: 20 g: 4 h: 16
+5 8 0 7 6 2 3 4 1 
+----------------
+openlist size = 120
+closedlist size = 197
+
+----------------
+f: 20 g: 5 h: 15
+5 8 2 7 6 0 3 4 1 
+----------------
+openlist size = 121
+closedlist size = 198
+
+----------------
+f: 20 g: 6 h: 14
+5 8 2 7 6 1 3 4 0 
+----------------
+openlist size = 121
+closedlist size = 199
+
+----------------
+f: 20 g: 4 h: 16
+5 6 8 7 0 2 3 4 1 
+----------------
+openlist size = 123
+closedlist size = 200
+
+----------------
+f: 20 g: 5 h: 15
+5 6 8 0 7 2 3 4 1 
+----------------
+openlist size = 123
+closedlist size = 201
+
+----------------
+f: 20 g: 6 h: 14
+5 6 8 3 7 2 0 4 1 
+----------------
+openlist size = 123
+closedlist size = 202
+
+----------------
+f: 20 g: 5 h: 15
+5 6 8 7 4 2 3 0 1 
+----------------
+openlist size = 124
+closedlist size = 203
+
+----------------
+f: 20 g: 6 h: 14
+5 6 8 7 4 2 3 1 0 
+----------------
+openlist size = 124
+closedlist size = 204
+
+----------------
+f: 20 g: 6 h: 14
+0 6 8 5 7 2 3 4 1 
+----------------
+openlist size = 123
+closedlist size = 205
+
+----------------
+f: 22 g: 7 h: 15
+5 6 8 7 4 0 3 1 2 
+----------------
+openlist size = 124
+closedlist size = 206
+
+----------------
+f: 22 g: 8 h: 14
+5 6 0 7 4 8 3 1 2 
+----------------
+openlist size = 124
+closedlist size = 207
+
+----------------
+f: 22 g: 6 h: 16
+5 6 8 7 4 2 0 3 1 
+----------------
+openlist size = 124
+closedlist size = 208
+
+----------------
+f: 22 g: 7 h: 15
+5 6 8 0 4 2 7 3 1 
+----------------
+openlist size = 125
+closedlist size = 209
+
+----------------
+f: 22 g: 8 h: 14
+0 6 8 5 4 2 7 3 1 
+----------------
+openlist size = 125
+closedlist size = 210
+
+----------------
+f: 22 g: 9 h: 13
+6 0 8 5 4 2 7 3 1 
+----------------
+openlist size = 126
+closedlist size = 211
+
+----------------
+f: 22 g: 7 h: 15
+5 6 8 3 7 2 4 0 1 
+----------------
+openlist size = 127
+closedlist size = 212
+
+----------------
+f: 22 g: 8 h: 14
+5 6 8 3 7 2 4 1 0 
+----------------
+openlist size = 127
+closedlist size = 213
+
+----------------
+f: 22 g: 8 h: 14
+5 6 8 3 0 2 4 7 1 
+----------------
+openlist size = 129
+closedlist size = 214
+
+----------------
+f: 22 g: 9 h: 13
+5 0 8 3 6 2 4 7 1 
+----------------
+openlist size = 130
+closedlist size = 215
+
+----------------
+f: 22 g: 10 h: 12
+0 5 8 3 6 2 4 7 1 
+----------------
+openlist size = 130
+closedlist size = 216
+
+----------------
+f: 22 g: 5 h: 17
+5 6 8 7 2 0 3 4 1 
+----------------
+openlist size = 131
+closedlist size = 217
+
+----------------
+f: 22 g: 6 h: 16
+5 6 8 7 2 1 3 4 0 
+----------------
+openlist size = 131
+closedlist size = 218
+
+----------------
+f: 22 g: 6 h: 16
+5 6 0 7 2 8 3 4 1 
+----------------
+openlist size = 131
+closedlist size = 219
+
+----------------
+f: 22 g: 7 h: 15
+5 8 2 7 6 1 3 0 4 
+----------------
+openlist size = 132
+closedlist size = 220
+
+----------------
+f: 22 g: 8 h: 14
+5 8 2 7 0 1 3 6 4 
+----------------
+openlist size = 134
+closedlist size = 221
+
+----------------
+f: 22 g: 9 h: 13
+5 8 2 7 1 0 3 6 4 
+----------------
+openlist size = 135
+closedlist size = 222
+
+----------------
+f: 22 g: 10 h: 12
+5 8 2 7 1 4 3 6 0 
+----------------
+openlist size = 135
+closedlist size = 223
+
+----------------
+f: 22 g: 9 h: 13
+5 8 2 0 7 1 3 6 4 
+----------------
+openlist size = 136
+closedlist size = 224
+
+----------------
+f: 22 g: 10 h: 12
+5 8 2 3 7 1 0 6 4 
+----------------
+openlist size = 136
+closedlist size = 225
+
+----------------
+f: 22 g: 11 h: 11
+5 8 2 3 7 1 6 0 4 
+----------------
+openlist size = 137
+closedlist size = 226
+
+----------------
+f: 22 g: 12 h: 10
+5 8 2 3 7 1 6 4 0 
+----------------
+openlist size = 137
+closedlist size = 227
+
+----------------
+f: 22 g: 12 h: 10
+5 8 2 3 0 1 6 7 4 
+----------------
+openlist size = 139
+closedlist size = 228
+
+----------------
+f: 22 g: 13 h: 9
+5 8 2 3 1 0 6 7 4 
+----------------
+openlist size = 140
+closedlist size = 229
+
+----------------
+f: 22 g: 14 h: 8
+5 8 2 3 1 4 6 7 0 
+----------------
+openlist size = 140
+closedlist size = 230
+
+----------------
+f: 22 g: 13 h: 9
+5 0 2 3 8 1 6 7 4 
+----------------
+openlist size = 141
+closedlist size = 231
+
+----------------
+f: 22 g: 14 h: 8
+0 5 2 3 8 1 6 7 4 
+----------------
+openlist size = 141
+closedlist size = 232
+
+----------------
+f: 22 g: 10 h: 12
+0 8 2 5 7 1 3 6 4 
+----------------
+openlist size = 141
+closedlist size = 233
+
+----------------
+f: 22 g: 9 h: 13
+5 0 2 7 8 1 3 6 4 
+----------------
+openlist size = 142
+closedlist size = 234
+
+----------------
+f: 22 g: 10 h: 12
+0 5 2 7 8 1 3 6 4 
+----------------
+openlist size = 142
+closedlist size = 235
+
+----------------
+f: 22 g: 6 h: 16
+5 8 2 7 0 6 3 4 1 
+----------------
+openlist size = 144
+closedlist size = 236
+
+----------------
+f: 22 g: 7 h: 15
+5 8 2 0 7 6 3 4 1 
+----------------
+openlist size = 145
+closedlist size = 237
+
+----------------
+f: 22 g: 8 h: 14
+5 8 2 3 7 6 0 4 1 
+----------------
+openlist size = 145
+closedlist size = 238
+
+----------------
+f: 22 g: 8 h: 14
+0 8 2 5 7 6 3 4 1 
+----------------
+openlist size = 145
+closedlist size = 239
+
+----------------
+f: 22 g: 7 h: 15
+5 8 2 7 4 6 3 0 1 
+----------------
+openlist size = 146
+closedlist size = 240
+
+----------------
+f: 22 g: 8 h: 14
+5 8 2 7 4 6 3 1 0 
+----------------
+openlist size = 146
+closedlist size = 241
+
+----------------
+f: 22 g: 9 h: 13
+5 8 2 7 4 0 3 1 6 
+----------------
+openlist size = 147
+closedlist size = 242
+
+----------------
+f: 22 g: 7 h: 15
+5 0 2 7 8 6 3 4 1 
+----------------
+openlist size = 148
+closedlist size = 243
+
+----------------
+f: 22 g: 8 h: 14
+0 5 2 7 8 6 3 4 1 
+----------------
+openlist size = 148
+closedlist size = 244
+
+----------------
+f: 22 g: 8 h: 14
+6 8 0 5 7 2 3 4 1 
+----------------
+openlist size = 148
+closedlist size = 245
+
+----------------
+f: 22 g: 9 h: 13
+6 8 2 5 7 0 3 4 1 
+----------------
+openlist size = 149
+closedlist size = 246
+
+----------------
+f: 22 g: 10 h: 12
+6 8 2 5 7 1 3 4 0 
+----------------
+openlist size = 149
+closedlist size = 247
+
+----------------
+f: 22 g: 9 h: 13
+6 7 8 5 4 0 3 1 2 
+----------------
+openlist size = 150
+closedlist size = 248
+
+----------------
+f: 22 g: 10 h: 12
+6 7 0 5 4 8 3 1 2 
+----------------
+openlist size = 150
+closedlist size = 249
+
+----------------
+f: 22 g: 8 h: 14
+6 7 8 5 4 2 0 3 1 
+----------------
+openlist size = 150
+closedlist size = 250
+
+----------------
+f: 22 g: 7 h: 15
+6 7 8 5 2 0 3 4 1 
+----------------
+openlist size = 151
+closedlist size = 251
+
+----------------
+f: 22 g: 8 h: 14
+6 7 8 5 2 1 3 4 0 
+----------------
+openlist size = 151
+closedlist size = 252
+
+----------------
+f: 22 g: 8 h: 14
+6 7 0 5 2 8 3 4 1 
+----------------
+openlist size = 151
+closedlist size = 253
+
+----------------
+f: 22 g: 9 h: 13
+6 7 8 3 5 0 4 1 2 
+----------------
+openlist size = 152
+closedlist size = 254
+
+----------------
+f: 22 g: 10 h: 12
+6 7 8 3 0 5 4 1 2 
+----------------
+openlist size = 154
+closedlist size = 255
+
+----------------
+f: 22 g: 11 h: 11
+6 7 8 3 1 5 4 0 2 
+----------------
+openlist size = 155
+closedlist size = 256
+
+----------------
+f: 22 g: 12 h: 10
+6 7 8 3 1 5 0 4 2 
+----------------
+openlist size = 155
+closedlist size = 257
+
+----------------
+f: 22 g: 11 h: 11
+6 0 8 3 7 5 4 1 2 
+----------------
+openlist size = 156
+closedlist size = 258
+
+----------------
+f: 22 g: 10 h: 12
+6 7 0 3 5 8 4 1 2 
+----------------
+openlist size = 156
+closedlist size = 259
+
+----------------
+f: 22 g: 8 h: 14
+6 7 8 3 0 2 4 5 1 
+----------------
+openlist size = 158
+closedlist size = 260
+
+----------------
+f: 22 g: 9 h: 13
+6 0 8 3 7 2 4 5 1 
+----------------
+openlist size = 159
+closedlist size = 261
+
+----------------
+f: 22 g: 9 h: 13
+8 0 2 7 6 5 3 4 1 
+----------------
+openlist size = 160
+closedlist size = 262
+
+----------------
+f: 22 g: 11 h: 11
+8 0 2 7 4 5 6 3 1 
+----------------
+openlist size = 161
+closedlist size = 263
+
+----------------
+f: 22 g: 10 h: 12
+7 8 2 6 0 4 3 1 5 
+----------------
+openlist size = 163
+closedlist size = 264
+
+----------------
+f: 22 g: 11 h: 11
+7 8 2 6 1 4 3 0 5 
+----------------
+openlist size = 164
+closedlist size = 265
+
+----------------
+f: 22 g: 11 h: 11
+7 0 2 6 8 4 3 1 5 
+----------------
+openlist size = 165
+closedlist size = 266
+
+----------------
+f: 22 g: 12 h: 10
+0 7 2 6 8 4 3 1 5 
+----------------
+openlist size = 165
+closedlist size = 267
+
+----------------
+f: 22 g: 10 h: 12
+7 8 0 6 4 2 3 1 5 
+----------------
+openlist size = 165
+closedlist size = 268
+
+----------------
+f: 22 g: 11 h: 11
+7 0 8 6 4 2 3 1 5 
+----------------
+openlist size = 166
+closedlist size = 269
+
+----------------
+f: 22 g: 12 h: 10
+0 7 8 6 4 2 3 1 5 
+----------------
+openlist size = 166
+closedlist size = 270
+
+----------------
+f: 22 g: 11 h: 11
+6 7 2 3 8 5 4 0 1 
+----------------
+openlist size = 167
+closedlist size = 271
+
+----------------
+f: 22 g: 12 h: 10
+6 7 2 3 8 5 4 1 0 
+----------------
+openlist size = 167
+closedlist size = 272
+
+----------------
+f: 22 g: 12 h: 10
+6 7 2 3 0 5 4 8 1 
+----------------
+openlist size = 169
+closedlist size = 273
+
+----------------
+f: 22 g: 13 h: 9
+6 0 2 3 7 5 4 8 1 
+----------------
+openlist size = 170
+closedlist size = 274
+
+----------------
+f: 22 g: 10 h: 12
+6 7 2 8 0 5 3 4 1 
+----------------
+openlist size = 172
+closedlist size = 275
+
+----------------
+f: 22 g: 11 h: 11
+6 7 2 8 4 5 3 0 1 
+----------------
+openlist size = 173
+closedlist size = 276
+
+----------------
+f: 22 g: 12 h: 10
+6 7 2 8 4 5 3 1 0 
+----------------
+openlist size = 173
+closedlist size = 277
+
+----------------
+f: 22 g: 11 h: 11
+6 0 2 8 7 5 3 4 1 
+----------------
+openlist size = 174
+closedlist size = 278
+
+----------------
+f: 22 g: 8 h: 14
+7 8 2 6 5 1 0 3 4 
+----------------
+openlist size = 174
+closedlist size = 279
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 0 5 1 6 3 4 
+----------------
+openlist size = 175
+closedlist size = 280
+
+----------------
+f: 22 g: 10 h: 12
+0 8 2 7 5 1 6 3 4 
+----------------
+openlist size = 175
+closedlist size = 281
+
+----------------
+f: 22 g: 8 h: 14
+7 8 2 6 0 1 3 5 4 
+----------------
+openlist size = 177
+closedlist size = 282
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 6 1 0 3 5 4 
+----------------
+openlist size = 177
+closedlist size = 283
+
+----------------
+f: 22 g: 9 h: 13
+7 0 2 6 8 1 3 5 4 
+----------------
+openlist size = 178
+closedlist size = 284
+
+----------------
+f: 22 g: 10 h: 12
+0 7 2 6 8 1 3 5 4 
+----------------
+openlist size = 178
+closedlist size = 285
+
+----------------
+f: 22 g: 10 h: 12
+7 8 2 6 1 4 3 5 0 
+----------------
+openlist size = 177
+closedlist size = 286
+
+----------------
+f: 22 g: 9 h: 13
+6 7 8 0 5 4 3 1 2 
+----------------
+openlist size = 177
+closedlist size = 287
+
+----------------
+f: 22 g: 10 h: 12
+6 7 8 3 5 4 0 1 2 
+----------------
+openlist size = 177
+closedlist size = 288
+
+----------------
+f: 22 g: 8 h: 14
+7 8 0 6 5 4 3 1 2 
+----------------
+openlist size = 177
+closedlist size = 289
+
+----------------
+f: 22 g: 8 h: 14
+7 5 8 6 1 4 3 2 0 
+----------------
+openlist size = 177
+closedlist size = 290
+
+----------------
+f: 22 g: 8 h: 14
+7 5 8 6 1 4 0 3 2 
+----------------
+openlist size = 177
+closedlist size = 291
+
+----------------
+f: 22 g: 9 h: 13
+7 5 8 0 1 4 6 3 2 
+----------------
+openlist size = 178
+closedlist size = 292
+
+----------------
+f: 22 g: 10 h: 12
+0 5 8 7 1 4 6 3 2 
+----------------
+openlist size = 178
+closedlist size = 293
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 0 6 4 3 1 2 
+----------------
+openlist size = 179
+closedlist size = 294
+
+----------------
+f: 22 g: 8 h: 14
+7 5 8 3 6 4 0 1 2 
+----------------
+openlist size = 179
+closedlist size = 295
+
+----------------
+f: 22 g: 8 h: 14
+0 5 8 7 6 4 3 1 2 
+----------------
+openlist size = 179
+closedlist size = 296
+
+----------------
+f: 22 g: 10 h: 12
+7 4 5 6 1 8 3 2 0 
+----------------
+openlist size = 179
+closedlist size = 297
+
+----------------
+f: 22 g: 11 h: 11
+7 4 5 6 1 0 3 2 8 
+----------------
+openlist size = 180
+closedlist size = 298
+
+----------------
+f: 22 g: 12 h: 10
+7 4 0 6 1 5 3 2 8 
+----------------
+openlist size = 180
+closedlist size = 299
+
+----------------
+f: 22 g: 10 h: 12
+7 4 5 6 1 8 0 3 2 
+----------------
+openlist size = 180
+closedlist size = 300
+
+----------------
+f: 22 g: 11 h: 11
+7 4 5 0 1 8 6 3 2 
+----------------
+openlist size = 181
+closedlist size = 301
+
+----------------
+f: 22 g: 12 h: 10
+0 4 5 7 1 8 6 3 2 
+----------------
+openlist size = 181
+closedlist size = 302
+
+----------------
+f: 22 g: 9 h: 13
+7 4 5 6 8 0 3 1 2 
+----------------
+openlist size = 182
+closedlist size = 303
+
+----------------
+f: 22 g: 10 h: 12
+7 4 5 6 8 2 3 1 0 
+----------------
+openlist size = 182
+closedlist size = 304
+
+----------------
+f: 22 g: 10 h: 12
+7 4 0 6 8 5 3 1 2 
+----------------
+openlist size = 182
+closedlist size = 305
+
+----------------
+f: 22 g: 9 h: 13
+7 4 5 0 6 8 3 1 2 
+----------------
+openlist size = 183
+closedlist size = 306
+
+----------------
+f: 22 g: 10 h: 12
+7 4 5 3 6 8 0 1 2 
+----------------
+openlist size = 183
+closedlist size = 307
+
+----------------
+f: 22 g: 10 h: 12
+0 4 5 7 6 8 3 1 2 
+----------------
+openlist size = 183
+closedlist size = 308
+
+----------------
+f: 22 g: 11 h: 11
+6 7 5 3 4 8 1 0 2 
+----------------
+openlist size = 184
+closedlist size = 309
+
+----------------
+f: 22 g: 10 h: 12
+6 7 5 4 0 8 3 1 2 
+----------------
+openlist size = 186
+closedlist size = 310
+
+----------------
+f: 22 g: 11 h: 11
+6 7 5 4 1 8 3 0 2 
+----------------
+openlist size = 187
+closedlist size = 311
+
+----------------
+f: 22 g: 11 h: 11
+6 0 5 4 7 8 3 1 2 
+----------------
+openlist size = 188
+closedlist size = 312
+
+----------------
+f: 22 g: 9 h: 13
+4 7 8 0 5 2 6 3 1 
+----------------
+openlist size = 189
+closedlist size = 313
+
+----------------
+f: 22 g: 8 h: 14
+7 8 0 4 5 2 6 3 1 
+----------------
+openlist size = 189
+closedlist size = 314
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 4 5 0 6 3 1 
+----------------
+openlist size = 189
+closedlist size = 315
+
+----------------
+f: 22 g: 10 h: 12
+7 8 2 4 5 1 6 3 0 
+----------------
+openlist size = 189
+closedlist size = 316
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 4 2 0 6 3 1 
+----------------
+openlist size = 190
+closedlist size = 317
+
+----------------
+f: 22 g: 8 h: 14
+7 5 8 4 2 1 6 3 0 
+----------------
+openlist size = 190
+closedlist size = 318
+
+----------------
+f: 22 g: 8 h: 14
+7 5 0 4 2 8 6 3 1 
+----------------
+openlist size = 190
+closedlist size = 319
+
+----------------
+f: 22 g: 9 h: 13
+7 0 5 4 2 8 6 3 1 
+----------------
+openlist size = 190
+closedlist size = 320
+
+----------------
+f: 22 g: 10 h: 12
+0 7 5 4 2 8 6 3 1 
+----------------
+openlist size = 190
+closedlist size = 321
+
+----------------
+f: 22 g: 8 h: 14
+5 8 0 7 4 2 6 3 1 
+----------------
+openlist size = 190
+closedlist size = 322
+
+----------------
+f: 22 g: 9 h: 13
+5 8 2 7 4 0 6 3 1 
+----------------
+openlist size = 191
+closedlist size = 323
+
+----------------
+f: 22 g: 10 h: 12
+5 8 2 7 4 1 6 3 0 
+----------------
+openlist size = 191
+closedlist size = 324
+
+----------------
+f: 22 g: 8 h: 14
+5 4 8 7 0 2 6 3 1 
+----------------
+openlist size = 193
+closedlist size = 325
+
+----------------
+f: 22 g: 9 h: 13
+5 4 8 0 7 2 6 3 1 
+----------------
+openlist size = 194
+closedlist size = 326
+
+----------------
+f: 22 g: 10 h: 12
+0 4 8 5 7 2 6 3 1 
+----------------
+openlist size = 194
+closedlist size = 327
+
+----------------
+f: 22 g: 9 h: 13
+5 4 8 7 3 2 6 0 1 
+----------------
+openlist size = 195
+closedlist size = 328
+
+----------------
+f: 22 g: 10 h: 12
+5 4 8 7 3 2 6 1 0 
+----------------
+openlist size = 195
+closedlist size = 329
+
+----------------
+f: 22 g: 6 h: 16
+7 5 8 6 2 1 0 3 4 
+----------------
+openlist size = 195
+closedlist size = 330
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 0 2 1 6 3 4 
+----------------
+openlist size = 196
+closedlist size = 331
+
+----------------
+f: 22 g: 8 h: 14
+0 5 8 7 2 1 6 3 4 
+----------------
+openlist size = 196
+closedlist size = 332
+
+----------------
+f: 22 g: 6 h: 16
+7 5 8 6 0 1 3 2 4 
+----------------
+openlist size = 197
+closedlist size = 333
+
+----------------
+f: 22 g: 7 h: 15
+7 0 8 6 5 1 3 2 4 
+----------------
+openlist size = 198
+closedlist size = 334
+
+----------------
+f: 22 g: 8 h: 14
+0 7 8 6 5 1 3 2 4 
+----------------
+openlist size = 198
+closedlist size = 335
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 6 1 0 3 2 4 
+----------------
+openlist size = 198
+closedlist size = 336
+
+----------------
+f: 22 g: 8 h: 14
+7 5 0 6 1 8 3 2 4 
+----------------
+openlist size = 198
+closedlist size = 337
+
+----------------
+f: 22 g: 9 h: 13
+7 0 5 6 1 8 3 2 4 
+----------------
+openlist size = 199
+closedlist size = 338
+
+----------------
+f: 22 g: 10 h: 12
+0 7 5 6 1 8 3 2 4 
+----------------
+openlist size = 199
+closedlist size = 339
+
+----------------
+f: 22 g: 10 h: 12
+7 1 5 6 0 8 3 2 4 
+----------------
+openlist size = 201
+closedlist size = 340
+
+----------------
+f: 22 g: 11 h: 11
+7 1 5 6 2 8 3 0 4 
+----------------
+openlist size = 202
+closedlist size = 341
+
+----------------
+f: 22 g: 12 h: 10
+7 1 5 6 2 8 3 4 0 
+----------------
+openlist size = 202
+closedlist size = 342
+
+----------------
+f: 22 g: 13 h: 9
+7 1 5 6 2 0 3 4 8 
+----------------
+openlist size = 203
+closedlist size = 343
+
+----------------
+f: 22 g: 14 h: 8
+7 1 5 6 0 2 3 4 8 
+----------------
+openlist size = 205
+closedlist size = 344
+
+----------------
+f: 22 g: 15 h: 7
+7 1 5 6 4 2 3 0 8 
+----------------
+openlist size = 206
+closedlist size = 345
+
+----------------
+f: 22 g: 14 h: 8
+7 1 0 6 2 5 3 4 8 
+----------------
+openlist size = 206
+closedlist size = 346
+
+----------------
+f: 22 g: 9 h: 13
+6 7 5 3 2 8 4 0 1 
+----------------
+openlist size = 207
+closedlist size = 347
+
+----------------
+f: 22 g: 10 h: 12
+6 7 5 3 2 8 4 1 0 
+----------------
+openlist size = 207
+closedlist size = 348
+
+----------------
+f: 22 g: 11 h: 11
+6 7 5 3 2 0 4 1 8 
+----------------
+openlist size = 208
+closedlist size = 349
+
+----------------
+f: 22 g: 12 h: 10
+6 7 5 3 0 2 4 1 8 
+----------------
+openlist size = 210
+closedlist size = 350
+
+----------------
+f: 22 g: 13 h: 9
+6 7 5 3 1 2 4 0 8 
+----------------
+openlist size = 211
+closedlist size = 351
+
+----------------
+f: 22 g: 14 h: 8
+6 7 5 3 1 2 0 4 8 
+----------------
+openlist size = 211
+closedlist size = 352
+
+----------------
+f: 22 g: 13 h: 9
+6 0 5 3 7 2 4 1 8 
+----------------
+openlist size = 212
+closedlist size = 353
+
+----------------
+f: 22 g: 12 h: 10
+6 7 0 3 2 5 4 1 8 
+----------------
+openlist size = 212
+closedlist size = 354
+
+----------------
+f: 22 g: 8 h: 14
+6 7 5 2 0 8 3 4 1 
+----------------
+openlist size = 214
+closedlist size = 355
+
+----------------
+f: 22 g: 9 h: 13
+6 7 5 2 4 8 3 0 1 
+----------------
+openlist size = 215
+closedlist size = 356
+
+----------------
+f: 22 g: 10 h: 12
+6 7 5 2 4 8 3 1 0 
+----------------
+openlist size = 215
+closedlist size = 357
+
+----------------
+f: 22 g: 11 h: 11
+6 7 5 2 4 0 3 1 8 
+----------------
+openlist size = 216
+closedlist size = 358
+
+----------------
+f: 22 g: 12 h: 10
+6 7 0 2 4 5 3 1 8 
+----------------
+openlist size = 216
+closedlist size = 359
+
+----------------
+f: 22 g: 9 h: 13
+6 0 5 2 7 8 3 4 1 
+----------------
+openlist size = 217
+closedlist size = 360
+
+----------------
+f: 22 g: 9 h: 13
+2 0 5 7 6 8 3 4 1 
+----------------
+openlist size = 218
+closedlist size = 361
+
+----------------
+f: 22 g: 9 h: 13
+7 2 5 6 8 1 3 0 4 
+----------------
+openlist size = 219
+closedlist size = 362
+
+----------------
+f: 22 g: 10 h: 12
+7 2 5 6 0 1 3 8 4 
+----------------
+openlist size = 221
+closedlist size = 363
+
+----------------
+f: 22 g: 11 h: 11
+7 2 5 6 1 0 3 8 4 
+----------------
+openlist size = 221
+closedlist size = 364
+
+----------------
+f: 22 g: 12 h: 10
+7 2 0 6 1 5 3 8 4 
+----------------
+openlist size = 221
+closedlist size = 365
+
+----------------
+f: 22 g: 13 h: 9
+7 0 2 6 1 5 3 8 4 
+----------------
+openlist size = 222
+closedlist size = 366
+
+----------------
+f: 22 g: 14 h: 8
+0 7 2 6 1 5 3 8 4 
+----------------
+openlist size = 222
+closedlist size = 367
+
+----------------
+f: 22 g: 14 h: 8
+7 1 2 6 0 5 3 8 4 
+----------------
+openlist size = 224
+closedlist size = 368
+
+----------------
+f: 22 g: 11 h: 11
+2 0 5 7 4 8 6 3 1 
+----------------
+openlist size = 225
+closedlist size = 369
+
+----------------
+f: 22 g: 12 h: 10
+7 2 5 6 1 4 3 8 0 
+----------------
+openlist size = 224
+closedlist size = 370
+
+----------------
+f: 22 g: 12 h: 10
+7 2 5 6 1 4 0 3 8 
+----------------
+openlist size = 224
+closedlist size = 371
+
+----------------
+f: 22 g: 13 h: 9
+7 2 5 0 1 4 6 3 8 
+----------------
+openlist size = 225
+closedlist size = 372
+
+----------------
+f: 22 g: 14 h: 8
+0 2 5 7 1 4 6 3 8 
+----------------
+openlist size = 225
+closedlist size = 373
+
+----------------
+f: 22 g: 11 h: 11
+7 2 5 0 6 4 3 1 8 
+----------------
+openlist size = 226
+closedlist size = 374
+
+----------------
+f: 22 g: 12 h: 10
+7 2 5 3 6 4 0 1 8 
+----------------
+openlist size = 226
+closedlist size = 375
+
+----------------
+f: 22 g: 12 h: 10
+0 2 5 7 6 4 3 1 8 
+----------------
+openlist size = 226
+closedlist size = 376
+
+----------------
+f: 22 g: 11 h: 11
+7 0 5 6 2 4 3 1 8 
+----------------
+openlist size = 227
+closedlist size = 377
+
+----------------
+f: 22 g: 12 h: 10
+0 7 5 6 2 4 3 1 8 
+----------------
+openlist size = 227
+closedlist size = 378
+
+----------------
+f: 22 g: 14 h: 8
+7 4 2 6 1 5 3 8 0 
+----------------
+openlist size = 227
+closedlist size = 379
+
+----------------
+f: 22 g: 14 h: 8
+7 4 2 6 1 5 0 3 8 
+----------------
+openlist size = 227
+closedlist size = 380
+
+----------------
+f: 22 g: 15 h: 7
+7 4 2 0 1 5 6 3 8 
+----------------
+openlist size = 228
+closedlist size = 381
+
+----------------
+f: 22 g: 16 h: 6
+0 4 2 7 1 5 6 3 8 
+----------------
+openlist size = 228
+closedlist size = 382
+
+----------------
+f: 22 g: 13 h: 9
+7 4 2 6 5 0 3 1 8 
+----------------
+openlist size = 229
+closedlist size = 383
+
+----------------
+f: 22 g: 13 h: 9
+7 4 2 0 6 5 3 1 8 
+----------------
+openlist size = 230
+closedlist size = 384
+
+----------------
+f: 22 g: 14 h: 8
+7 4 2 3 6 5 0 1 8 
+----------------
+openlist size = 230
+closedlist size = 385
+
+----------------
+f: 22 g: 14 h: 8
+0 4 2 7 6 5 3 1 8 
+----------------
+openlist size = 230
+closedlist size = 386
+
+----------------
+f: 22 g: 15 h: 7
+6 7 2 3 4 5 1 0 8 
+----------------
+openlist size = 231
+closedlist size = 387
+
+----------------
+f: 22 g: 14 h: 8
+6 7 2 4 0 5 3 1 8 
+----------------
+openlist size = 233
+closedlist size = 388
+
+----------------
+f: 22 g: 15 h: 7
+6 7 2 4 1 5 3 0 8 
+----------------
+openlist size = 234
+closedlist size = 389
+
+----------------
+f: 22 g: 15 h: 7
+6 0 2 4 7 5 3 1 8 
+----------------
+openlist size = 235
+closedlist size = 390
+
+----------------
+f: 22 g: 8 h: 14
+3 8 0 5 7 2 4 6 1 
+----------------
+openlist size = 235
+closedlist size = 391
+
+----------------
+f: 22 g: 9 h: 13
+3 8 2 5 7 0 4 6 1 
+----------------
+openlist size = 236
+closedlist size = 392
+
+----------------
+f: 22 g: 10 h: 12
+3 8 2 5 7 1 4 6 0 
+----------------
+openlist size = 236
+closedlist size = 393
+
+----------------
+f: 22 g: 8 h: 14
+0 3 8 5 7 2 4 6 1 
+----------------
+openlist size = 236
+closedlist size = 394
+
+----------------
+f: 22 g: 7 h: 15
+3 7 8 5 2 0 4 6 1 
+----------------
+openlist size = 237
+closedlist size = 395
+
+----------------
+f: 22 g: 8 h: 14
+3 7 8 5 2 1 4 6 0 
+----------------
+openlist size = 237
+closedlist size = 396
+
+----------------
+f: 22 g: 8 h: 14
+3 7 0 5 2 8 4 6 1 
+----------------
+openlist size = 237
+closedlist size = 397
+
+----------------
+f: 22 g: 7 h: 15
+3 7 8 5 6 2 4 0 1 
+----------------
+openlist size = 238
+closedlist size = 398
+
+----------------
+f: 22 g: 8 h: 14
+3 7 8 5 6 2 4 1 0 
+----------------
+openlist size = 238
+closedlist size = 399
+
+----------------
+f: 22 g: 8 h: 14
+3 7 8 5 6 2 0 4 1 
+----------------
+openlist size = 238
+closedlist size = 400
+
+----------------
+f: 22 g: 10 h: 12
+3 8 0 4 7 2 6 5 1 
+----------------
+openlist size = 238
+closedlist size = 401
+
+----------------
+f: 22 g: 11 h: 11
+3 8 2 4 7 0 6 5 1 
+----------------
+openlist size = 239
+closedlist size = 402
+
+----------------
+f: 22 g: 12 h: 10
+3 8 2 4 7 1 6 5 0 
+----------------
+openlist size = 239
+closedlist size = 403
+
+----------------
+f: 22 g: 13 h: 9
+3 8 2 4 7 1 6 0 5 
+----------------
+openlist size = 240
+closedlist size = 404
+
+----------------
+f: 22 g: 14 h: 8
+3 8 2 4 0 1 6 7 5 
+----------------
+openlist size = 242
+closedlist size = 405
+
+----------------
+f: 22 g: 15 h: 7
+3 8 2 4 1 0 6 7 5 
+----------------
+openlist size = 243
+closedlist size = 406
+
+----------------
+f: 22 g: 16 h: 6
+3 8 2 4 1 5 6 7 0 
+----------------
+openlist size = 243
+closedlist size = 407
+
+----------------
+f: 22 g: 15 h: 7
+3 8 2 0 4 1 6 7 5 
+----------------
+openlist size = 244
+closedlist size = 408
+
+----------------
+f: 22 g: 16 h: 6
+0 8 2 3 4 1 6 7 5 
+----------------
+openlist size = 244
+closedlist size = 409
+
+----------------
+f: 22 g: 15 h: 7
+3 0 2 4 8 1 6 7 5 
+----------------
+openlist size = 245
+closedlist size = 410
+
+----------------
+f: 22 g: 10 h: 12
+0 3 8 4 7 2 6 5 1 
+----------------
+openlist size = 245
+closedlist size = 411
+
+----------------
+f: 22 g: 11 h: 11
+7 0 8 3 4 2 6 5 1 
+----------------
+openlist size = 246
+closedlist size = 412
+
+----------------
+f: 22 g: 10 h: 12
+3 7 8 6 4 2 0 5 1 
+----------------
+openlist size = 246
+closedlist size = 413
+
+----------------
+f: 22 g: 9 h: 13
+3 7 8 4 2 0 6 5 1 
+----------------
+openlist size = 247
+closedlist size = 414
+
+----------------
+f: 22 g: 10 h: 12
+3 7 8 4 2 1 6 5 0 
+----------------
+openlist size = 247
+closedlist size = 415
+
+----------------
+f: 22 g: 11 h: 11
+3 7 8 4 2 1 6 0 5 
+----------------
+openlist size = 248
+closedlist size = 416
+
+----------------
+f: 22 g: 10 h: 12
+3 7 0 4 2 8 6 5 1 
+----------------
+openlist size = 248
+closedlist size = 417
+
+----------------
+f: 22 g: 11 h: 11
+3 0 7 4 5 8 6 1 2 
+----------------
+openlist size = 249
+closedlist size = 418
+
+----------------
+f: 22 g: 12 h: 10
+3 8 0 4 7 5 6 1 2 
+----------------
+openlist size = 249
+closedlist size = 419
+
+----------------
+f: 22 g: 12 h: 10
+0 3 8 4 7 5 6 1 2 
+----------------
+openlist size = 249
+closedlist size = 420
+
+----------------
+f: 22 g: 12 h: 10
+3 7 8 4 1 5 6 2 0 
+----------------
+openlist size = 249
+closedlist size = 421
+
+----------------
+f: 22 g: 12 h: 10
+3 7 8 4 1 5 0 6 2 
+----------------
+openlist size = 249
+closedlist size = 422
+
+----------------
+f: 22 g: 13 h: 9
+7 0 8 3 4 5 6 1 2 
+----------------
+openlist size = 250
+closedlist size = 423
+
+----------------
+f: 22 g: 12 h: 10
+3 7 8 6 4 5 0 1 2 
+----------------
+openlist size = 250
+closedlist size = 424
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 3 6 0 4 1 5 
+----------------
+openlist size = 251
+closedlist size = 425
+
+----------------
+f: 22 g: 9 h: 13
+8 0 2 7 3 5 4 6 1 
+----------------
+openlist size = 252
+closedlist size = 426
+
+----------------
+f: 22 g: 11 h: 11
+7 8 2 4 3 0 6 1 5 
+----------------
+openlist size = 253
+closedlist size = 427
+
+----------------
+f: 22 g: 10 h: 12
+7 8 2 4 0 5 6 3 1 
+----------------
+openlist size = 253
+closedlist size = 428
+
+----------------
+f: 22 g: 11 h: 11
+7 0 2 4 8 5 6 3 1 
+----------------
+openlist size = 254
+closedlist size = 429
+
+----------------
+f: 22 g: 12 h: 10
+0 7 2 4 8 5 6 3 1 
+----------------
+openlist size = 254
+closedlist size = 430
+
+----------------
+f: 22 g: 14 h: 8
+3 2 0 4 7 5 6 8 1 
+----------------
+openlist size = 254
+closedlist size = 431
+
+----------------
+f: 22 g: 14 h: 8
+0 3 2 4 7 5 6 8 1 
+----------------
+openlist size = 254
+closedlist size = 432
+
+----------------
+f: 22 g: 15 h: 7
+7 0 2 3 4 5 6 8 1 
+----------------
+openlist size = 255
+closedlist size = 433
+
+----------------
+f: 22 g: 14 h: 8
+3 7 2 6 4 5 0 8 1 
+----------------
+openlist size = 255
+closedlist size = 434
+
+----------------
+f: 22 g: 13 h: 9
+3 7 2 4 5 0 6 8 1 
+----------------
+openlist size = 256
+closedlist size = 435
+
+----------------
+f: 22 g: 14 h: 8
+3 7 2 4 5 1 6 8 0 
+----------------
+openlist size = 256
+closedlist size = 436
+
+----------------
+f: 22 g: 15 h: 7
+3 7 2 4 5 1 6 0 8 
+----------------
+openlist size = 257
+closedlist size = 437
+
+----------------
+f: 22 g: 13 h: 9
+3 7 2 4 8 0 6 1 5 
+----------------
+openlist size = 258
+closedlist size = 438
+
+----------------
+f: 22 g: 14 h: 8
+3 7 2 4 0 8 6 1 5 
+----------------
+openlist size = 260
+closedlist size = 439
+
+----------------
+f: 22 g: 15 h: 7
+3 7 2 0 4 8 6 1 5 
+----------------
+openlist size = 261
+closedlist size = 440
+
+----------------
+f: 22 g: 16 h: 6
+0 7 2 3 4 8 6 1 5 
+----------------
+openlist size = 261
+closedlist size = 441
+
+----------------
+f: 22 g: 15 h: 7
+3 7 2 4 1 8 6 0 5 
+----------------
+openlist size = 262
+closedlist size = 442
+
+----------------
+f: 22 g: 15 h: 7
+3 0 2 4 7 8 6 1 5 
+----------------
+openlist size = 263
+closedlist size = 443
+
+----------------
+f: 22 g: 10 h: 12
+3 7 2 8 0 5 4 6 1 
+----------------
+openlist size = 265
+closedlist size = 444
+
+----------------
+f: 22 g: 11 h: 11
+3 0 2 8 7 5 4 6 1 
+----------------
+openlist size = 266
+closedlist size = 445
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 0 5 1 3 4 6 
+----------------
+openlist size = 267
+closedlist size = 446
+
+----------------
+f: 22 g: 10 h: 12
+0 8 2 7 5 1 3 4 6 
+----------------
+openlist size = 267
+closedlist size = 447
+
+----------------
+f: 22 g: 8 h: 14
+7 8 2 3 0 1 4 5 6 
+----------------
+openlist size = 269
+closedlist size = 448
+
+----------------
+f: 22 g: 9 h: 13
+7 8 2 3 1 0 4 5 6 
+----------------
+openlist size = 270
+closedlist size = 449
+
+----------------
+f: 22 g: 9 h: 13
+7 0 2 3 8 1 4 5 6 
+----------------
+openlist size = 271
+closedlist size = 450
+
+----------------
+f: 22 g: 10 h: 12
+0 7 2 3 8 1 4 5 6 
+----------------
+openlist size = 271
+closedlist size = 451
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 0 2 1 3 4 6 
+----------------
+openlist size = 272
+closedlist size = 452
+
+----------------
+f: 22 g: 8 h: 14
+0 5 8 7 2 1 3 4 6 
+----------------
+openlist size = 272
+closedlist size = 453
+
+----------------
+f: 22 g: 6 h: 16
+7 5 8 3 0 1 4 2 6 
+----------------
+openlist size = 274
+closedlist size = 454
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 3 1 0 4 2 6 
+----------------
+openlist size = 274
+closedlist size = 455
+
+----------------
+f: 22 g: 8 h: 14
+7 5 0 3 1 8 4 2 6 
+----------------
+openlist size = 274
+closedlist size = 456
+
+----------------
+f: 22 g: 9 h: 13
+7 0 5 3 1 8 4 2 6 
+----------------
+openlist size = 275
+closedlist size = 457
+
+----------------
+f: 22 g: 10 h: 12
+0 7 5 3 1 8 4 2 6 
+----------------
+openlist size = 275
+closedlist size = 458
+
+----------------
+f: 22 g: 10 h: 12
+7 1 5 3 0 8 4 2 6 
+----------------
+openlist size = 277
+closedlist size = 459
+
+----------------
+f: 22 g: 11 h: 11
+7 1 5 3 2 8 4 0 6 
+----------------
+openlist size = 278
+closedlist size = 460
+
+----------------
+f: 22 g: 12 h: 10
+7 1 5 3 2 8 4 6 0 
+----------------
+openlist size = 278
+closedlist size = 461
+
+----------------
+f: 22 g: 13 h: 9
+7 1 5 3 2 0 4 6 8 
+----------------
+openlist size = 279
+closedlist size = 462
+
+----------------
+f: 22 g: 14 h: 8
+7 1 5 3 0 2 4 6 8 
+----------------
+openlist size = 281
+closedlist size = 463
+
+----------------
+f: 22 g: 14 h: 8
+7 1 0 3 2 5 4 6 8 
+----------------
+openlist size = 281
+closedlist size = 464
+
+----------------
+f: 22 g: 12 h: 10
+7 1 5 3 2 8 0 4 6 
+----------------
+openlist size = 281
+closedlist size = 465
+
+----------------
+f: 22 g: 7 h: 15
+7 0 8 3 5 1 4 2 6 
+----------------
+openlist size = 282
+closedlist size = 466
+
+----------------
+f: 22 g: 8 h: 14
+0 7 8 3 5 1 4 2 6 
+----------------
+openlist size = 282
+closedlist size = 467
+
+----------------
+f: 22 g: 13 h: 9
+3 0 7 4 2 5 6 1 8 
+----------------
+openlist size = 283
+closedlist size = 468
+
+----------------
+f: 22 g: 14 h: 8
+3 2 7 4 0 5 6 1 8 
+----------------
+openlist size = 285
+closedlist size = 469
+
+----------------
+f: 22 g: 15 h: 7
+3 2 7 0 4 5 6 1 8 
+----------------
+openlist size = 286
+closedlist size = 470
+
+----------------
+f: 22 g: 16 h: 6
+0 2 7 3 4 5 6 1 8 
+----------------
+openlist size = 286
+closedlist size = 471
+
+----------------
+f: 22 g: 15 h: 7
+3 2 7 4 1 5 6 0 8 
+----------------
+openlist size = 287
+closedlist size = 472
+
+----------------
+f: 22 g: 14 h: 8
+3 5 0 4 7 2 6 1 8 
+----------------
+openlist size = 287
+closedlist size = 473
+
+----------------
+f: 22 g: 15 h: 7
+3 5 2 4 7 0 6 1 8 
+----------------
+openlist size = 288
+closedlist size = 474
+
+----------------
+f: 22 g: 14 h: 8
+0 3 5 4 7 2 6 1 8 
+----------------
+openlist size = 288
+closedlist size = 475
+
+----------------
+f: 22 g: 14 h: 8
+3 7 5 4 1 2 6 8 0 
+----------------
+openlist size = 288
+closedlist size = 476
+
+----------------
+f: 22 g: 14 h: 8
+3 7 5 4 1 2 0 6 8 
+----------------
+openlist size = 288
+closedlist size = 477
+
+----------------
+f: 22 g: 15 h: 7
+7 0 5 3 4 2 6 1 8 
+----------------
+openlist size = 289
+closedlist size = 478
+
+----------------
+f: 22 g: 14 h: 8
+3 7 5 6 4 2 0 1 8 
+----------------
+openlist size = 289
+closedlist size = 479
+
+----------------
+f: 22 g: 10 h: 12
+3 7 5 4 0 8 6 2 1 
+----------------
+openlist size = 291
+closedlist size = 480
+
+----------------
+f: 22 g: 11 h: 11
+3 7 5 0 4 8 6 2 1 
+----------------
+openlist size = 292
+closedlist size = 481
+
+----------------
+f: 22 g: 12 h: 10
+0 7 5 3 4 8 6 2 1 
+----------------
+openlist size = 292
+closedlist size = 482
+
+----------------
+f: 22 g: 11 h: 11
+3 0 5 4 7 8 6 2 1 
+----------------
+openlist size = 293
+closedlist size = 483
+
+----------------
+f: 22 g: 8 h: 14
+3 7 5 2 0 8 4 6 1 
+----------------
+openlist size = 295
+closedlist size = 484
+
+----------------
+f: 22 g: 9 h: 13
+3 0 5 2 7 8 4 6 1 
+----------------
+openlist size = 296
+closedlist size = 485
+
+----------------
+f: 22 g: 13 h: 9
+3 7 2 0 6 5 4 1 8 
+----------------
+openlist size = 297
+closedlist size = 486
+
+----------------
+f: 22 g: 14 h: 8
+3 7 2 6 0 5 4 1 8 
+----------------
+openlist size = 299
+closedlist size = 487
+
+----------------
+f: 22 g: 15 h: 7
+3 7 2 6 1 5 4 0 8 
+----------------
+openlist size = 300
+closedlist size = 488
+
+----------------
+f: 22 g: 16 h: 6
+3 7 2 6 1 5 0 4 8 
+----------------
+openlist size = 300
+closedlist size = 489
+
+----------------
+f: 22 g: 17 h: 5
+3 7 2 0 1 5 6 4 8 
+----------------
+openlist size = 301
+closedlist size = 490
+
+----------------
+f: 22 g: 18 h: 4
+0 7 2 3 1 5 6 4 8 
+----------------
+openlist size = 301
+closedlist size = 491
+
+----------------
+f: 22 g: 15 h: 7
+3 0 2 6 7 5 4 1 8 
+----------------
+openlist size = 302
+closedlist size = 492
+
+----------------
+f: 22 g: 14 h: 8
+3 7 2 4 6 5 0 1 8 
+----------------
+openlist size = 302
+closedlist size = 493
+
+----------------
+f: 22 g: 12 h: 10
+7 6 2 3 0 5 4 1 8 
+----------------
+openlist size = 304
+closedlist size = 494
+
+----------------
+f: 22 g: 13 h: 9
+7 6 2 3 1 5 4 0 8 
+----------------
+openlist size = 305
+closedlist size = 495
+
+----------------
+f: 22 g: 14 h: 8
+7 6 2 3 1 5 0 4 8 
+----------------
+openlist size = 305
+closedlist size = 496
+
+----------------
+f: 22 g: 10 h: 12
+7 2 5 3 0 6 4 1 8 
+----------------
+openlist size = 307
+closedlist size = 497
+
+----------------
+f: 22 g: 11 h: 11
+7 2 5 3 1 6 4 0 8 
+----------------
+openlist size = 308
+closedlist size = 498
+
+----------------
+f: 22 g: 12 h: 10
+7 2 5 3 1 6 0 4 8 
+----------------
+openlist size = 308
+closedlist size = 499
+
+----------------
+f: 22 g: 9 h: 13
+2 0 5 7 3 8 4 6 1 
+----------------
+openlist size = 309
+closedlist size = 500
+
+----------------
+f: 22 g: 15 h: 7
+4 7 2 0 3 5 6 1 8 
+----------------
+openlist size = 310
+closedlist size = 501
+
+----------------
+f: 22 g: 16 h: 6
+4 7 2 3 0 5 6 1 8 
+----------------
+openlist size = 312
+closedlist size = 502
+
+----------------
+f: 22 g: 17 h: 5
+4 7 2 3 1 5 6 0 8 
+----------------
+openlist size = 313
+closedlist size = 503
+
+----------------
+f: 22 g: 17 h: 5
+4 0 2 3 7 5 6 1 8 
+----------------
+openlist size = 314
+closedlist size = 504
+
+----------------
+f: 22 g: 18 h: 4
+0 4 2 3 7 5 6 1 8 
+----------------
+openlist size = 314
+closedlist size = 505
+
+----------------
+f: 22 g: 14 h: 8
+7 3 2 4 0 5 6 1 8 
+----------------
+openlist size = 316
+closedlist size = 506
+
+----------------
+f: 22 g: 15 h: 7
+7 3 2 0 4 5 6 1 8 
+----------------
+openlist size = 317
+closedlist size = 507
+
+----------------
+f: 22 g: 16 h: 6
+0 3 2 7 4 5 6 1 8 
+----------------
+openlist size = 317
+closedlist size = 508
+
+----------------
+f: 22 g: 17 h: 5
+3 0 2 7 4 5 6 1 8 
+----------------
+openlist size = 318
+closedlist size = 509
+
+----------------
+f: 22 g: 15 h: 7
+7 3 2 4 1 5 6 0 8 
+----------------
+openlist size = 319
+closedlist size = 510
+
+----------------
+f: 22 g: 12 h: 10
+7 2 5 4 0 3 6 1 8 
+----------------
+openlist size = 321
+closedlist size = 511
+
+----------------
+f: 22 g: 13 h: 9
+7 2 5 0 4 3 6 1 8 
+----------------
+openlist size = 322
+closedlist size = 512
+
+----------------
+f: 22 g: 14 h: 8
+0 2 5 7 4 3 6 1 8 
+----------------
+openlist size = 322
+closedlist size = 513
+
+----------------
+f: 22 g: 13 h: 9
+7 2 5 4 1 3 6 0 8 
+----------------
+openlist size = 323
+closedlist size = 514
+
+----------------
+f: 22 g: 10 h: 12
+7 2 5 4 0 8 6 3 1 
+----------------
+openlist size = 323
+closedlist size = 515
+
+----------------
+f: 22 g: 9 h: 13
+7 2 5 3 8 1 4 0 6 
+----------------
+openlist size = 324
+closedlist size = 516
+
+----------------
+f: 22 g: 10 h: 12
+7 2 5 3 8 1 0 4 6 
+----------------
+openlist size = 324
+closedlist size = 517
+
+----------------
+f: 22 g: 10 h: 12
+7 2 5 3 0 1 4 8 6 
+----------------
+openlist size = 326
+closedlist size = 518
+
+----------------
+f: 22 g: 11 h: 11
+7 2 5 3 1 0 4 8 6 
+----------------
+openlist size = 326
+closedlist size = 519
+
+----------------
+f: 22 g: 12 h: 10
+7 2 0 3 1 5 4 8 6 
+----------------
+openlist size = 326
+closedlist size = 520
+
+----------------
+f: 22 g: 13 h: 9
+7 0 2 3 1 5 4 8 6 
+----------------
+openlist size = 327
+closedlist size = 521
+
+----------------
+f: 22 g: 14 h: 8
+0 7 2 3 1 5 4 8 6 
+----------------
+openlist size = 327
+closedlist size = 522
+
+----------------
+f: 22 g: 14 h: 8
+7 1 2 3 0 5 4 8 6 
+----------------
+openlist size = 329
+closedlist size = 523
+
+----------------
+f: 22 g: 11 h: 11
+4 7 5 0 3 8 6 1 2 
+----------------
+openlist size = 330
+closedlist size = 524
+
+----------------
+f: 22 g: 12 h: 10
+4 7 5 3 0 8 6 1 2 
+----------------
+openlist size = 332
+closedlist size = 525
+
+----------------
+f: 22 g: 13 h: 9
+4 7 5 3 1 8 6 0 2 
+----------------
+openlist size = 333
+closedlist size = 526
+
+----------------
+f: 22 g: 13 h: 9
+4 0 5 3 7 8 6 1 2 
+----------------
+openlist size = 334
+closedlist size = 527
+
+----------------
+f: 22 g: 14 h: 8
+0 4 5 3 7 8 6 1 2 
+----------------
+openlist size = 334
+closedlist size = 528
+
+----------------
+f: 22 g: 10 h: 12
+7 3 5 4 0 8 6 1 2 
+----------------
+openlist size = 336
+closedlist size = 529
+
+----------------
+f: 22 g: 11 h: 11
+7 3 5 0 4 8 6 1 2 
+----------------
+openlist size = 337
+closedlist size = 530
+
+----------------
+f: 22 g: 12 h: 10
+0 3 5 7 4 8 6 1 2 
+----------------
+openlist size = 337
+closedlist size = 531
+
+----------------
+f: 22 g: 13 h: 9
+3 0 5 7 4 8 6 1 2 
+----------------
+openlist size = 338
+closedlist size = 532
+
+----------------
+f: 22 g: 11 h: 11
+7 3 5 4 1 8 6 0 2 
+----------------
+openlist size = 339
+closedlist size = 533
+
+----------------
+f: 22 g: 8 h: 14
+7 5 8 4 0 3 6 1 2 
+----------------
+openlist size = 341
+closedlist size = 534
+
+----------------
+f: 22 g: 9 h: 13
+7 5 8 0 4 3 6 1 2 
+----------------
+openlist size = 342
+closedlist size = 535
+
+----------------
+f: 22 g: 10 h: 12
+0 5 8 7 4 3 6 1 2 
+----------------
+openlist size = 342
+closedlist size = 536
+
+----------------
+f: 22 g: 9 h: 13
+7 5 8 4 1 3 6 0 2 
+----------------
+openlist size = 343
+closedlist size = 537
+
+----------------
+f: 22 g: 9 h: 13
+7 0 8 4 5 3 6 1 2 
+----------------
+openlist size = 344
+closedlist size = 538
+
+----------------
+f: 22 g: 10 h: 12
+0 7 8 4 5 3 6 1 2 
+----------------
+openlist size = 344
+closedlist size = 539
+
+----------------
+f: 22 g: 6 h: 16
+5 8 0 7 3 2 4 6 1 
+----------------
+openlist size = 344
+closedlist size = 540
+
+----------------
+f: 22 g: 7 h: 15
+5 8 2 7 3 0 4 6 1 
+----------------
+openlist size = 345
+closedlist size = 541
+
+----------------
+f: 22 g: 8 h: 14
+5 8 2 7 3 1 4 6 0 
+----------------
+openlist size = 345
+closedlist size = 542
+
+----------------
+f: 22 g: 6 h: 16
+5 3 8 7 0 2 4 6 1 
+----------------
+openlist size = 346
+closedlist size = 543
+
+----------------
+f: 22 g: 7 h: 15
+5 3 8 0 7 2 4 6 1 
+----------------
+openlist size = 346
+closedlist size = 544
+
+----------------
+f: 22 g: 8 h: 14
+5 3 8 4 7 2 0 6 1 
+----------------
+openlist size = 346
+closedlist size = 545
+
+----------------
+f: 22 g: 9 h: 13
+5 3 8 4 7 2 6 0 1 
+----------------
+openlist size = 347
+closedlist size = 546
+
+----------------
+f: 22 g: 10 h: 12
+5 3 8 4 7 2 6 1 0 
+----------------
+openlist size = 347
+closedlist size = 547
+
+----------------
+f: 22 g: 10 h: 12
+5 3 8 4 0 2 6 7 1 
+----------------
+openlist size = 349
+closedlist size = 548
+
+----------------
+f: 22 g: 11 h: 11
+5 3 8 0 4 2 6 7 1 
+----------------
+openlist size = 350
+closedlist size = 549
+
+----------------
+f: 22 g: 12 h: 10
+0 3 8 5 4 2 6 7 1 
+----------------
+openlist size = 350
+closedlist size = 550
+
+----------------
+f: 22 g: 13 h: 9
+3 0 8 5 4 2 6 7 1 
+----------------
+openlist size = 351
+closedlist size = 551
+
+----------------
+f: 22 g: 11 h: 11
+5 0 8 4 3 2 6 7 1 
+----------------
+openlist size = 352
+closedlist size = 552
+
+----------------
+f: 22 g: 12 h: 10
+0 5 8 4 3 2 6 7 1 
+----------------
+openlist size = 352
+closedlist size = 553
+
+----------------
+f: 22 g: 7 h: 15
+3 7 8 0 5 6 4 1 2 
+----------------
+openlist size = 353
+closedlist size = 554
+
+----------------
+f: 22 g: 8 h: 14
+3 7 8 4 5 6 0 1 2 
+----------------
+openlist size = 353
+closedlist size = 555
+
+----------------
+f: 22 g: 6 h: 16
+7 8 0 3 5 6 4 1 2 
+----------------
+openlist size = 353
+closedlist size = 556
+
+----------------
+f: 22 g: 7 h: 15
+7 5 8 0 1 6 3 4 2 
+----------------
+openlist size = 354
+closedlist size = 557
+
+----------------
+f: 22 g: 8 h: 14
+0 5 8 7 1 6 3 4 2 
+----------------
+openlist size = 354
+closedlist size = 558
+
+----------------
+f: 22 g: 6 h: 16
+7 5 8 3 1 6 4 2 0 
+----------------
+openlist size = 353
+closedlist size = 559
+
+----------------
+f: 22 g: 5 h: 17
+7 5 8 0 3 6 4 1 2 
+----------------
+openlist size = 354
+closedlist size = 560
+
+----------------
+f: 22 g: 6 h: 16
+7 5 8 4 3 6 0 1 2 
+----------------
+openlist size = 354
+closedlist size = 561
+
+----------------
+f: 22 g: 6 h: 16
+0 5 8 7 3 6 4 1 2 
+----------------
+openlist size = 354
+closedlist size = 562
+
+----------------
+f: 22 g: 9 h: 13
+7 6 5 0 1 8 3 4 2 
+----------------
+openlist size = 355
+closedlist size = 563
+
+----------------
+f: 22 g: 10 h: 12
+0 6 5 7 1 8 3 4 2 
+----------------
+openlist size = 355
+closedlist size = 564
+
+----------------
+f: 22 g: 11 h: 11
+6 0 5 7 1 8 3 4 2 
+----------------
+openlist size = 356
+closedlist size = 565
+
+----------------
+f: 22 g: 12 h: 10
+6 1 5 7 0 8 3 4 2 
+----------------
+openlist size = 358
+closedlist size = 566
+
+----------------
+f: 22 g: 13 h: 9
+6 1 5 0 7 8 3 4 2 
+----------------
+openlist size = 359
+closedlist size = 567
+
+----------------
+f: 22 g: 14 h: 8
+6 1 5 3 7 8 0 4 2 
+----------------
+openlist size = 359
+closedlist size = 568
+
+----------------
+f: 22 g: 14 h: 8
+0 1 5 6 7 8 3 4 2 
+----------------
+openlist size = 359
+closedlist size = 569
+
+----------------
+f: 22 g: 13 h: 9
+6 1 5 7 4 8 3 0 2 
+----------------
+openlist size = 360
+closedlist size = 570
+
+----------------
+f: 22 g: 8 h: 14
+7 6 5 3 1 8 4 2 0 
+----------------
+openlist size = 360
+closedlist size = 571
+
+----------------
+f: 22 g: 9 h: 13
+7 6 5 3 1 0 4 2 8 
+----------------
+openlist size = 361
+closedlist size = 572
+
+----------------
+f: 22 g: 10 h: 12
+7 6 0 3 1 5 4 2 8 
+----------------
+openlist size = 361
+closedlist size = 573
+
+----------------
+f: 22 g: 7 h: 15
+7 6 5 3 8 0 4 1 2 
+----------------
+openlist size = 362
+closedlist size = 574
+
+----------------
+f: 22 g: 8 h: 14
+7 6 5 3 8 2 4 1 0 
+----------------
+openlist size = 362
+closedlist size = 575
+
+----------------
+f: 22 g: 8 h: 14
+7 6 0 3 8 5 4 1 2 
+----------------
+openlist size = 362
+closedlist size = 576
+
+----------------
+f: 22 g: 7 h: 15
+7 6 5 0 3 8 4 1 2 
+----------------
+openlist size = 363
+closedlist size = 577
+
+----------------
+f: 22 g: 8 h: 14
+7 6 5 4 3 8 0 1 2 
+----------------
+openlist size = 363
+closedlist size = 578
+
+----------------
+f: 22 g: 8 h: 14
+0 6 5 7 3 8 4 1 2 
+----------------
+openlist size = 363
+closedlist size = 579
+
+----------------
+f: 22 g: 9 h: 13
+6 0 5 7 3 8 4 1 2 
+----------------
+openlist size = 364
+closedlist size = 580
+
+----------------
+f: 22 g: 9 h: 13
+3 7 5 4 6 8 1 0 2 
+----------------
+openlist size = 365
+closedlist size = 581
+
+----------------
+f: 22 g: 10 h: 12
+3 7 5 4 0 8 1 6 2 
+----------------
+openlist size = 367
+closedlist size = 582
+
+----------------
+f: 22 g: 11 h: 11
+3 7 5 0 4 8 1 6 2 
+----------------
+openlist size = 368
+closedlist size = 583
+
+----------------
+f: 22 g: 12 h: 10
+3 7 5 1 4 8 0 6 2 
+----------------
+openlist size = 368
+closedlist size = 584
+
+----------------
+f: 22 g: 13 h: 9
+3 7 5 1 4 8 6 0 2 
+----------------
+openlist size = 368
+closedlist size = 585
+
+----------------
+f: 22 g: 12 h: 10
+0 7 5 3 4 8 1 6 2 
+----------------
+openlist size = 368
+closedlist size = 586
+
+----------------
+f: 22 g: 11 h: 11
+3 0 5 4 7 8 1 6 2 
+----------------
+openlist size = 369
+closedlist size = 587
+
+----------------
+f: 22 g: 10 h: 12
+3 5 0 6 7 8 4 1 2 
+----------------
+openlist size = 369
+closedlist size = 588
+
+----------------
+f: 22 g: 10 h: 12
+0 3 5 6 7 8 4 1 2 
+----------------
+openlist size = 369
+closedlist size = 589
+
+----------------
+f: 22 g: 13 h: 9
+7 0 5 3 1 8 6 4 2 
+----------------
+openlist size = 370
+closedlist size = 590
+
+----------------
+f: 22 g: 14 h: 8
+7 1 5 3 0 8 6 4 2 
+----------------
+openlist size = 372
+closedlist size = 591
+
+----------------
+f: 22 g: 15 h: 7
+7 1 5 3 4 8 6 0 2 
+----------------
+openlist size = 373
+closedlist size = 592
+
+----------------
+f: 22 g: 12 h: 10
+3 7 5 1 0 8 6 4 2 
+----------------
+openlist size = 374
+closedlist size = 593
+
+----------------
+f: 22 g: 13 h: 9
+3 0 5 1 7 8 6 4 2 
+----------------
+openlist size = 375
+closedlist size = 594
+
+----------------
+f: 22 g: 10 h: 12
+3 7 5 6 1 8 4 2 0 
+----------------
+openlist size = 375
+closedlist size = 595
+
+----------------
+f: 22 g: 11 h: 11
+3 7 5 6 1 0 4 2 8 
+----------------
+openlist size = 376
+closedlist size = 596
+
+----------------
+f: 22 g: 12 h: 10
+3 7 0 6 1 5 4 2 8 
+----------------
+openlist size = 376
+closedlist size = 597
+
+----------------
+f: 22 g: 9 h: 13
+3 7 5 6 8 0 4 1 2 
+----------------
+openlist size = 377
+closedlist size = 598
+
+----------------
+f: 22 g: 10 h: 12
+3 7 5 6 8 2 4 1 0 
+----------------
+openlist size = 377
+closedlist size = 599
+
+----------------
+f: 22 g: 10 h: 12
+3 7 0 6 8 5 4 1 2 
+----------------
+openlist size = 377
+closedlist size = 600
+
+----------------
+f: 24 g: 11 h: 13
+3 0 7 6 8 5 4 1 2 
+----------------
+openlist size = 378
+closedlist size = 601
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 6 8 2 4 0 1 
+----------------
+openlist size = 379
+closedlist size = 602
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 6 8 2 0 4 1 
+----------------
+openlist size = 379
+closedlist size = 603
+
+----------------
+f: 24 g: 13 h: 11
+3 7 5 0 8 2 6 4 1 
+----------------
+openlist size = 380
+closedlist size = 604
+
+----------------
+f: 24 g: 14 h: 10
+0 7 5 3 8 2 6 4 1 
+----------------
+openlist size = 380
+closedlist size = 605
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 6 0 2 4 8 1 
+----------------
+openlist size = 382
+closedlist size = 606
+
+----------------
+f: 24 g: 13 h: 11
+3 0 5 6 7 2 4 8 1 
+----------------
+openlist size = 383
+closedlist size = 607
+
+----------------
+f: 24 g: 13 h: 11
+3 0 7 6 1 5 4 2 8 
+----------------
+openlist size = 384
+closedlist size = 608
+
+----------------
+f: 24 g: 14 h: 10
+3 1 7 6 0 5 4 2 8 
+----------------
+openlist size = 386
+closedlist size = 609
+
+----------------
+f: 24 g: 15 h: 9
+3 1 7 6 2 5 4 0 8 
+----------------
+openlist size = 387
+closedlist size = 610
+
+----------------
+f: 24 g: 16 h: 8
+3 1 7 6 2 5 0 4 8 
+----------------
+openlist size = 387
+closedlist size = 611
+
+----------------
+f: 24 g: 17 h: 7
+3 1 7 0 2 5 6 4 8 
+----------------
+openlist size = 388
+closedlist size = 612
+
+----------------
+f: 24 g: 18 h: 6
+0 1 7 3 2 5 6 4 8 
+----------------
+openlist size = 388
+closedlist size = 613
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 6 0 1 4 2 8 
+----------------
+openlist size = 390
+closedlist size = 614
+
+----------------
+f: 24 g: 13 h: 11
+3 7 5 6 2 1 4 0 8 
+----------------
+openlist size = 391
+closedlist size = 615
+
+----------------
+f: 24 g: 14 h: 10
+3 7 5 6 2 1 0 4 8 
+----------------
+openlist size = 391
+closedlist size = 616
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 0 2 1 6 4 8 
+----------------
+openlist size = 392
+closedlist size = 617
+
+----------------
+f: 24 g: 16 h: 8
+0 7 5 3 2 1 6 4 8 
+----------------
+openlist size = 392
+closedlist size = 618
+
+----------------
+f: 24 g: 13 h: 11
+3 0 5 6 7 1 4 2 8 
+----------------
+openlist size = 393
+closedlist size = 619
+
+----------------
+f: 24 g: 14 h: 10
+3 5 0 1 7 8 6 4 2 
+----------------
+openlist size = 393
+closedlist size = 620
+
+----------------
+f: 24 g: 14 h: 10
+0 3 5 1 7 8 6 4 2 
+----------------
+openlist size = 393
+closedlist size = 621
+
+----------------
+f: 24 g: 15 h: 9
+1 3 5 0 7 8 6 4 2 
+----------------
+openlist size = 394
+closedlist size = 622
+
+----------------
+f: 24 g: 13 h: 11
+3 7 5 1 8 0 6 4 2 
+----------------
+openlist size = 395
+closedlist size = 623
+
+----------------
+f: 24 g: 14 h: 10
+3 7 5 1 8 2 6 4 0 
+----------------
+openlist size = 395
+closedlist size = 624
+
+----------------
+f: 24 g: 14 h: 10
+3 7 0 1 8 5 6 4 2 
+----------------
+openlist size = 395
+closedlist size = 625
+
+----------------
+f: 24 g: 16 h: 8
+7 1 5 3 4 8 6 2 0 
+----------------
+openlist size = 395
+closedlist size = 626
+
+----------------
+f: 24 g: 17 h: 7
+7 1 5 3 4 0 6 2 8 
+----------------
+openlist size = 396
+closedlist size = 627
+
+----------------
+f: 24 g: 18 h: 6
+7 1 0 3 4 5 6 2 8 
+----------------
+openlist size = 396
+closedlist size = 628
+
+----------------
+f: 24 g: 16 h: 8
+7 1 5 3 4 8 0 6 2 
+----------------
+openlist size = 396
+closedlist size = 629
+
+----------------
+f: 24 g: 15 h: 9
+7 1 5 3 8 0 6 4 2 
+----------------
+openlist size = 397
+closedlist size = 630
+
+----------------
+f: 24 g: 16 h: 8
+7 1 5 3 8 2 6 4 0 
+----------------
+openlist size = 397
+closedlist size = 631
+
+----------------
+f: 24 g: 16 h: 8
+7 1 0 3 8 5 6 4 2 
+----------------
+openlist size = 397
+closedlist size = 632
+
+----------------
+f: 24 g: 15 h: 9
+7 1 5 0 3 8 6 4 2 
+----------------
+openlist size = 398
+closedlist size = 633
+
+----------------
+f: 24 g: 16 h: 8
+0 1 5 7 3 8 6 4 2 
+----------------
+openlist size = 398
+closedlist size = 634
+
+----------------
+f: 24 g: 14 h: 10
+7 5 0 3 1 8 6 4 2 
+----------------
+openlist size = 398
+closedlist size = 635
+
+----------------
+f: 24 g: 11 h: 13
+6 3 5 0 7 8 4 1 2 
+----------------
+openlist size = 398
+closedlist size = 636
+
+----------------
+f: 24 g: 12 h: 12
+6 3 5 4 7 8 0 1 2 
+----------------
+openlist size = 398
+closedlist size = 637
+
+----------------
+f: 24 g: 11 h: 13
+3 5 8 6 7 0 4 1 2 
+----------------
+openlist size = 399
+closedlist size = 638
+
+----------------
+f: 24 g: 12 h: 12
+3 5 8 6 7 2 4 1 0 
+----------------
+openlist size = 399
+closedlist size = 639
+
+----------------
+f: 24 g: 12 h: 12
+3 5 0 4 7 8 1 6 2 
+----------------
+openlist size = 399
+closedlist size = 640
+
+----------------
+f: 24 g: 12 h: 12
+0 3 5 4 7 8 1 6 2 
+----------------
+openlist size = 399
+closedlist size = 641
+
+----------------
+f: 24 g: 13 h: 11
+7 0 5 3 4 8 1 6 2 
+----------------
+openlist size = 400
+closedlist size = 642
+
+----------------
+f: 24 g: 14 h: 10
+3 7 5 1 4 8 6 2 0 
+----------------
+openlist size = 400
+closedlist size = 643
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 1 4 0 6 2 8 
+----------------
+openlist size = 401
+closedlist size = 644
+
+----------------
+f: 24 g: 16 h: 8
+3 7 0 1 4 5 6 2 8 
+----------------
+openlist size = 401
+closedlist size = 645
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 4 8 0 1 6 2 
+----------------
+openlist size = 402
+closedlist size = 646
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 4 8 2 1 6 0 
+----------------
+openlist size = 402
+closedlist size = 647
+
+----------------
+f: 24 g: 12 h: 12
+3 7 0 4 8 5 1 6 2 
+----------------
+openlist size = 402
+closedlist size = 648
+
+----------------
+f: 24 g: 10 h: 14
+3 7 5 4 6 8 1 2 0 
+----------------
+openlist size = 402
+closedlist size = 649
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 4 6 0 1 2 8 
+----------------
+openlist size = 403
+closedlist size = 650
+
+----------------
+f: 24 g: 12 h: 12
+3 7 0 4 6 5 1 2 8 
+----------------
+openlist size = 403
+closedlist size = 651
+
+----------------
+f: 24 g: 10 h: 14
+6 5 0 7 3 8 4 1 2 
+----------------
+openlist size = 403
+closedlist size = 652
+
+----------------
+f: 24 g: 10 h: 14
+6 3 5 7 0 8 4 1 2 
+----------------
+openlist size = 404
+closedlist size = 653
+
+----------------
+f: 24 g: 11 h: 13
+6 3 5 7 1 8 4 0 2 
+----------------
+openlist size = 405
+closedlist size = 654
+
+----------------
+f: 24 g: 12 h: 12
+6 3 5 7 1 8 0 4 2 
+----------------
+openlist size = 405
+closedlist size = 655
+
+----------------
+f: 24 g: 13 h: 11
+6 3 5 0 1 8 7 4 2 
+----------------
+openlist size = 406
+closedlist size = 656
+
+----------------
+f: 24 g: 14 h: 10
+0 3 5 6 1 8 7 4 2 
+----------------
+openlist size = 406
+closedlist size = 657
+
+----------------
+f: 24 g: 15 h: 9
+3 0 5 6 1 8 7 4 2 
+----------------
+openlist size = 407
+closedlist size = 658
+
+----------------
+f: 24 g: 16 h: 8
+3 1 5 6 0 8 7 4 2 
+----------------
+openlist size = 409
+closedlist size = 659
+
+----------------
+f: 24 g: 17 h: 7
+3 1 5 6 4 8 7 0 2 
+----------------
+openlist size = 410
+closedlist size = 660
+
+----------------
+f: 24 g: 18 h: 6
+3 1 5 6 4 8 0 7 2 
+----------------
+openlist size = 410
+closedlist size = 661
+
+----------------
+f: 24 g: 19 h: 5
+3 1 5 0 4 8 6 7 2 
+----------------
+openlist size = 411
+closedlist size = 662
+
+----------------
+f: 24 g: 20 h: 4
+0 1 5 3 4 8 6 7 2 
+----------------
+openlist size = 411
+closedlist size = 663
+
+----------------
+f: 24 g: 9 h: 15
+7 6 5 4 3 8 1 0 2 
+----------------
+openlist size = 412
+closedlist size = 664
+
+----------------
+f: 24 g: 9 h: 15
+7 0 6 3 8 5 4 1 2 
+----------------
+openlist size = 413
+closedlist size = 665
+
+----------------
+f: 24 g: 10 h: 14
+0 7 6 3 8 5 4 1 2 
+----------------
+openlist size = 413
+closedlist size = 666
+
+----------------
+f: 24 g: 9 h: 15
+7 6 5 3 8 2 4 0 1 
+----------------
+openlist size = 414
+closedlist size = 667
+
+----------------
+f: 24 g: 10 h: 14
+7 6 5 3 8 2 0 4 1 
+----------------
+openlist size = 414
+closedlist size = 668
+
+----------------
+f: 24 g: 10 h: 14
+7 6 5 3 0 2 4 8 1 
+----------------
+openlist size = 416
+closedlist size = 669
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 3 6 2 4 8 1 
+----------------
+openlist size = 417
+closedlist size = 670
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 3 6 2 4 8 1 
+----------------
+openlist size = 416
+closedlist size = 671
+
+----------------
+f: 24 g: 11 h: 13
+7 0 6 3 1 5 4 2 8 
+----------------
+openlist size = 417
+closedlist size = 672
+
+----------------
+f: 24 g: 12 h: 12
+0 7 6 3 1 5 4 2 8 
+----------------
+openlist size = 417
+closedlist size = 673
+
+----------------
+f: 24 g: 12 h: 12
+7 1 6 3 0 5 4 2 8 
+----------------
+openlist size = 419
+closedlist size = 674
+
+----------------
+f: 24 g: 13 h: 11
+7 1 6 3 2 5 4 0 8 
+----------------
+openlist size = 420
+closedlist size = 675
+
+----------------
+f: 24 g: 14 h: 10
+7 1 6 3 2 5 0 4 8 
+----------------
+openlist size = 420
+closedlist size = 676
+
+----------------
+f: 24 g: 10 h: 14
+7 6 5 3 0 1 4 2 8 
+----------------
+openlist size = 422
+closedlist size = 677
+
+----------------
+f: 24 g: 11 h: 13
+7 6 5 3 2 1 4 0 8 
+----------------
+openlist size = 423
+closedlist size = 678
+
+----------------
+f: 24 g: 12 h: 12
+7 6 5 3 2 1 0 4 8 
+----------------
+openlist size = 423
+closedlist size = 679
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 3 6 1 4 2 8 
+----------------
+openlist size = 424
+closedlist size = 680
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 3 6 1 4 2 8 
+----------------
+openlist size = 423
+closedlist size = 681
+
+----------------
+f: 24 g: 14 h: 10
+6 1 5 7 4 8 3 2 0 
+----------------
+openlist size = 423
+closedlist size = 682
+
+----------------
+f: 24 g: 15 h: 9
+6 1 5 7 4 0 3 2 8 
+----------------
+openlist size = 424
+closedlist size = 683
+
+----------------
+f: 24 g: 16 h: 8
+6 1 0 7 4 5 3 2 8 
+----------------
+openlist size = 424
+closedlist size = 684
+
+----------------
+f: 24 g: 14 h: 10
+6 1 5 7 4 8 0 3 2 
+----------------
+openlist size = 424
+closedlist size = 685
+
+----------------
+f: 24 g: 15 h: 9
+6 1 5 0 4 8 7 3 2 
+----------------
+openlist size = 425
+closedlist size = 686
+
+----------------
+f: 24 g: 16 h: 8
+0 1 5 6 4 8 7 3 2 
+----------------
+openlist size = 425
+closedlist size = 687
+
+----------------
+f: 24 g: 15 h: 9
+1 0 5 6 7 8 3 4 2 
+----------------
+openlist size = 426
+closedlist size = 688
+
+----------------
+f: 24 g: 15 h: 9
+6 1 5 3 7 8 4 0 2 
+----------------
+openlist size = 427
+closedlist size = 689
+
+----------------
+f: 24 g: 16 h: 8
+6 1 5 3 0 8 4 7 2 
+----------------
+openlist size = 429
+closedlist size = 690
+
+----------------
+f: 24 g: 13 h: 11
+6 1 5 7 8 0 3 4 2 
+----------------
+openlist size = 430
+closedlist size = 691
+
+----------------
+f: 24 g: 14 h: 10
+6 1 5 7 8 2 3 4 0 
+----------------
+openlist size = 430
+closedlist size = 692
+
+----------------
+f: 24 g: 14 h: 10
+6 1 0 7 8 5 3 4 2 
+----------------
+openlist size = 430
+closedlist size = 693
+
+----------------
+f: 24 g: 12 h: 12
+6 5 0 7 1 8 3 4 2 
+----------------
+openlist size = 430
+closedlist size = 694
+
+----------------
+f: 24 g: 10 h: 14
+7 6 5 1 0 8 3 4 2 
+----------------
+openlist size = 432
+closedlist size = 695
+
+----------------
+f: 24 g: 11 h: 13
+7 6 5 1 4 8 3 0 2 
+----------------
+openlist size = 433
+closedlist size = 696
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 1 6 8 3 4 2 
+----------------
+openlist size = 434
+closedlist size = 697
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 1 6 8 3 4 2 
+----------------
+openlist size = 434
+closedlist size = 698
+
+----------------
+f: 24 g: 13 h: 11
+1 7 5 0 6 8 3 4 2 
+----------------
+openlist size = 434
+closedlist size = 699
+
+----------------
+f: 24 g: 14 h: 10
+1 7 5 3 6 8 0 4 2 
+----------------
+openlist size = 434
+closedlist size = 700
+
+----------------
+f: 24 g: 14 h: 10
+1 7 5 6 0 8 3 4 2 
+----------------
+openlist size = 435
+closedlist size = 701
+
+----------------
+f: 24 g: 15 h: 9
+1 7 5 6 4 8 3 0 2 
+----------------
+openlist size = 436
+closedlist size = 702
+
+----------------
+f: 24 g: 7 h: 17
+5 0 8 7 3 6 4 1 2 
+----------------
+openlist size = 437
+closedlist size = 703
+
+----------------
+f: 24 g: 7 h: 17
+7 5 8 4 3 6 1 0 2 
+----------------
+openlist size = 438
+closedlist size = 704
+
+----------------
+f: 24 g: 9 h: 15
+5 0 8 7 1 6 3 4 2 
+----------------
+openlist size = 439
+closedlist size = 705
+
+----------------
+f: 24 g: 10 h: 14
+5 1 8 7 0 6 3 4 2 
+----------------
+openlist size = 441
+closedlist size = 706
+
+----------------
+f: 24 g: 11 h: 13
+5 1 8 7 6 0 3 4 2 
+----------------
+openlist size = 442
+closedlist size = 707
+
+----------------
+f: 24 g: 12 h: 12
+5 1 8 7 6 2 3 4 0 
+----------------
+openlist size = 442
+closedlist size = 708
+
+----------------
+f: 24 g: 12 h: 12
+5 1 0 7 6 8 3 4 2 
+----------------
+openlist size = 442
+closedlist size = 709
+
+----------------
+f: 24 g: 11 h: 13
+5 1 8 0 7 6 3 4 2 
+----------------
+openlist size = 443
+closedlist size = 710
+
+----------------
+f: 24 g: 12 h: 12
+5 1 8 3 7 6 0 4 2 
+----------------
+openlist size = 443
+closedlist size = 711
+
+----------------
+f: 24 g: 12 h: 12
+0 1 8 5 7 6 3 4 2 
+----------------
+openlist size = 443
+closedlist size = 712
+
+----------------
+f: 24 g: 11 h: 13
+5 1 8 7 4 6 3 0 2 
+----------------
+openlist size = 444
+closedlist size = 713
+
+----------------
+f: 24 g: 8 h: 16
+7 5 8 1 0 6 3 4 2 
+----------------
+openlist size = 446
+closedlist size = 714
+
+----------------
+f: 24 g: 9 h: 15
+7 5 8 1 6 0 3 4 2 
+----------------
+openlist size = 446
+closedlist size = 715
+
+----------------
+f: 24 g: 10 h: 14
+7 5 8 1 6 2 3 4 0 
+----------------
+openlist size = 446
+closedlist size = 716
+
+----------------
+f: 24 g: 9 h: 15
+7 5 8 1 4 6 3 0 2 
+----------------
+openlist size = 447
+closedlist size = 717
+
+----------------
+f: 24 g: 9 h: 15
+7 0 8 1 5 6 3 4 2 
+----------------
+openlist size = 448
+closedlist size = 718
+
+----------------
+f: 24 g: 10 h: 14
+0 7 8 1 5 6 3 4 2 
+----------------
+openlist size = 448
+closedlist size = 719
+
+----------------
+f: 24 g: 11 h: 13
+1 7 8 0 5 6 3 4 2 
+----------------
+openlist size = 449
+closedlist size = 720
+
+----------------
+f: 24 g: 12 h: 12
+1 7 8 3 5 6 0 4 2 
+----------------
+openlist size = 449
+closedlist size = 721
+
+----------------
+f: 24 g: 10 h: 14
+7 5 0 1 6 8 3 4 2 
+----------------
+openlist size = 448
+closedlist size = 722
+
+----------------
+f: 24 g: 7 h: 17
+7 8 6 3 5 0 4 1 2 
+----------------
+openlist size = 448
+closedlist size = 723
+
+----------------
+f: 24 g: 8 h: 16
+7 8 6 3 5 2 4 1 0 
+----------------
+openlist size = 448
+closedlist size = 724
+
+----------------
+f: 24 g: 8 h: 16
+7 8 6 3 0 5 4 1 2 
+----------------
+openlist size = 449
+closedlist size = 725
+
+----------------
+f: 24 g: 9 h: 15
+7 8 6 3 1 5 4 0 2 
+----------------
+openlist size = 450
+closedlist size = 726
+
+----------------
+f: 24 g: 10 h: 14
+7 8 6 3 1 5 0 4 2 
+----------------
+openlist size = 450
+closedlist size = 727
+
+----------------
+f: 24 g: 9 h: 15
+3 7 8 4 5 6 1 0 2 
+----------------
+openlist size = 451
+closedlist size = 728
+
+----------------
+f: 24 g: 8 h: 16
+3 7 8 5 0 6 4 1 2 
+----------------
+openlist size = 452
+closedlist size = 729
+
+----------------
+f: 24 g: 9 h: 15
+3 7 8 5 1 6 4 0 2 
+----------------
+openlist size = 453
+closedlist size = 730
+
+----------------
+f: 24 g: 10 h: 14
+3 7 8 5 1 6 0 4 2 
+----------------
+openlist size = 453
+closedlist size = 731
+
+----------------
+f: 24 g: 9 h: 15
+3 0 8 5 7 6 4 1 2 
+----------------
+openlist size = 454
+closedlist size = 732
+
+----------------
+f: 24 g: 13 h: 11
+4 5 8 0 3 2 6 7 1 
+----------------
+openlist size = 455
+closedlist size = 733
+
+----------------
+f: 24 g: 14 h: 10
+4 5 8 3 0 2 6 7 1 
+----------------
+openlist size = 457
+closedlist size = 734
+
+----------------
+f: 24 g: 15 h: 9
+4 0 8 3 5 2 6 7 1 
+----------------
+openlist size = 458
+closedlist size = 735
+
+----------------
+f: 24 g: 16 h: 8
+0 4 8 3 5 2 6 7 1 
+----------------
+openlist size = 458
+closedlist size = 736
+
+----------------
+f: 24 g: 12 h: 12
+5 8 0 4 3 2 6 7 1 
+----------------
+openlist size = 458
+closedlist size = 737
+
+----------------
+f: 24 g: 13 h: 11
+5 8 2 4 3 0 6 7 1 
+----------------
+openlist size = 459
+closedlist size = 738
+
+----------------
+f: 24 g: 14 h: 10
+5 8 2 4 3 1 6 7 0 
+----------------
+openlist size = 459
+closedlist size = 739
+
+----------------
+f: 24 g: 14 h: 10
+3 8 0 5 4 2 6 7 1 
+----------------
+openlist size = 459
+closedlist size = 740
+
+----------------
+f: 24 g: 15 h: 9
+3 8 2 5 4 0 6 7 1 
+----------------
+openlist size = 460
+closedlist size = 741
+
+----------------
+f: 24 g: 16 h: 8
+3 8 2 5 4 1 6 7 0 
+----------------
+openlist size = 460
+closedlist size = 742
+
+----------------
+f: 24 g: 14 h: 10
+3 4 8 5 0 2 6 7 1 
+----------------
+openlist size = 461
+closedlist size = 743
+
+----------------
+f: 24 g: 15 h: 9
+3 4 8 0 5 2 6 7 1 
+----------------
+openlist size = 461
+closedlist size = 744
+
+----------------
+f: 24 g: 12 h: 12
+5 3 8 6 4 2 0 7 1 
+----------------
+openlist size = 461
+closedlist size = 745
+
+----------------
+f: 24 g: 11 h: 13
+5 3 8 4 2 0 6 7 1 
+----------------
+openlist size = 462
+closedlist size = 746
+
+----------------
+f: 24 g: 12 h: 12
+5 3 8 4 2 1 6 7 0 
+----------------
+openlist size = 462
+closedlist size = 747
+
+----------------
+f: 24 g: 12 h: 12
+5 3 0 4 2 8 6 7 1 
+----------------
+openlist size = 462
+closedlist size = 748
+
+----------------
+f: 24 g: 11 h: 13
+5 3 8 4 7 0 6 1 2 
+----------------
+openlist size = 463
+closedlist size = 749
+
+----------------
+f: 24 g: 12 h: 12
+5 3 0 4 7 8 6 1 2 
+----------------
+openlist size = 463
+closedlist size = 750
+
+----------------
+f: 24 g: 7 h: 17
+5 3 8 7 2 0 4 6 1 
+----------------
+openlist size = 464
+closedlist size = 751
+
+----------------
+f: 24 g: 8 h: 16
+5 3 8 7 2 1 4 6 0 
+----------------
+openlist size = 464
+closedlist size = 752
+
+----------------
+f: 24 g: 8 h: 16
+5 3 0 7 2 8 4 6 1 
+----------------
+openlist size = 464
+closedlist size = 753
+
+----------------
+f: 24 g: 7 h: 17
+5 3 8 7 6 2 4 0 1 
+----------------
+openlist size = 465
+closedlist size = 754
+
+----------------
+f: 24 g: 8 h: 16
+5 3 8 7 6 2 4 1 0 
+----------------
+openlist size = 465
+closedlist size = 755
+
+----------------
+f: 24 g: 8 h: 16
+5 3 8 7 6 2 0 4 1 
+----------------
+openlist size = 465
+closedlist size = 756
+
+----------------
+f: 24 g: 9 h: 15
+5 3 8 0 6 2 7 4 1 
+----------------
+openlist size = 466
+closedlist size = 757
+
+----------------
+f: 24 g: 10 h: 14
+5 3 8 6 0 2 7 4 1 
+----------------
+openlist size = 467
+closedlist size = 758
+
+----------------
+f: 24 g: 11 h: 13
+5 0 8 6 3 2 7 4 1 
+----------------
+openlist size = 468
+closedlist size = 759
+
+----------------
+f: 24 g: 12 h: 12
+0 5 8 6 3 2 7 4 1 
+----------------
+openlist size = 468
+closedlist size = 760
+
+----------------
+f: 24 g: 10 h: 14
+0 3 8 5 6 2 7 4 1 
+----------------
+openlist size = 468
+closedlist size = 761
+
+----------------
+f: 24 g: 11 h: 13
+3 0 8 5 6 2 7 4 1 
+----------------
+openlist size = 469
+closedlist size = 762
+
+----------------
+f: 24 g: 11 h: 13
+5 3 8 6 4 2 7 0 1 
+----------------
+openlist size = 469
+closedlist size = 763
+
+----------------
+f: 24 g: 12 h: 12
+5 3 8 6 4 2 7 1 0 
+----------------
+openlist size = 469
+closedlist size = 764
+
+----------------
+f: 24 g: 9 h: 15
+5 8 2 7 3 1 4 0 6 
+----------------
+openlist size = 470
+closedlist size = 765
+
+----------------
+f: 24 g: 10 h: 14
+5 8 2 7 3 1 0 4 6 
+----------------
+openlist size = 470
+closedlist size = 766
+
+----------------
+f: 24 g: 11 h: 13
+5 8 2 0 3 1 7 4 6 
+----------------
+openlist size = 471
+closedlist size = 767
+
+----------------
+f: 24 g: 12 h: 12
+5 8 2 3 0 1 7 4 6 
+----------------
+openlist size = 473
+closedlist size = 768
+
+----------------
+f: 24 g: 13 h: 11
+5 8 2 3 1 0 7 4 6 
+----------------
+openlist size = 474
+closedlist size = 769
+
+----------------
+f: 24 g: 13 h: 11
+5 8 2 3 4 1 7 0 6 
+----------------
+openlist size = 475
+closedlist size = 770
+
+----------------
+f: 24 g: 14 h: 10
+5 8 2 3 4 1 7 6 0 
+----------------
+openlist size = 475
+closedlist size = 771
+
+----------------
+f: 24 g: 14 h: 10
+5 8 2 3 4 1 0 7 6 
+----------------
+openlist size = 475
+closedlist size = 772
+
+----------------
+f: 24 g: 13 h: 11
+5 0 2 3 8 1 7 4 6 
+----------------
+openlist size = 476
+closedlist size = 773
+
+----------------
+f: 24 g: 14 h: 10
+0 5 2 3 8 1 7 4 6 
+----------------
+openlist size = 476
+closedlist size = 774
+
+----------------
+f: 24 g: 12 h: 12
+0 8 2 5 3 1 7 4 6 
+----------------
+openlist size = 476
+closedlist size = 775
+
+----------------
+f: 24 g: 8 h: 16
+5 8 2 7 0 3 4 6 1 
+----------------
+openlist size = 478
+closedlist size = 776
+
+----------------
+f: 24 g: 9 h: 15
+5 8 2 0 7 3 4 6 1 
+----------------
+openlist size = 479
+closedlist size = 777
+
+----------------
+f: 24 g: 10 h: 14
+5 8 2 4 7 3 0 6 1 
+----------------
+openlist size = 479
+closedlist size = 778
+
+----------------
+f: 24 g: 11 h: 13
+5 8 2 4 7 3 6 0 1 
+----------------
+openlist size = 479
+closedlist size = 779
+
+----------------
+f: 24 g: 12 h: 12
+5 8 2 4 7 3 6 1 0 
+----------------
+openlist size = 479
+closedlist size = 780
+
+----------------
+f: 24 g: 10 h: 14
+0 8 2 5 7 3 4 6 1 
+----------------
+openlist size = 479
+closedlist size = 781
+
+----------------
+f: 24 g: 9 h: 15
+5 0 2 7 8 3 4 6 1 
+----------------
+openlist size = 480
+closedlist size = 782
+
+----------------
+f: 24 g: 10 h: 14
+0 5 2 7 8 3 4 6 1 
+----------------
+openlist size = 480
+closedlist size = 783
+
+----------------
+f: 24 g: 12 h: 12
+5 8 2 4 0 3 6 7 1 
+----------------
+openlist size = 481
+closedlist size = 784
+
+----------------
+f: 24 g: 13 h: 11
+5 8 2 0 4 3 6 7 1 
+----------------
+openlist size = 482
+closedlist size = 785
+
+----------------
+f: 24 g: 14 h: 10
+0 8 2 5 4 3 6 7 1 
+----------------
+openlist size = 482
+closedlist size = 786
+
+----------------
+f: 24 g: 13 h: 11
+5 0 2 4 8 3 6 7 1 
+----------------
+openlist size = 483
+closedlist size = 787
+
+----------------
+f: 24 g: 14 h: 10
+0 5 2 4 8 3 6 7 1 
+----------------
+openlist size = 483
+closedlist size = 788
+
+----------------
+f: 24 g: 11 h: 13
+4 7 8 0 5 3 6 1 2 
+----------------
+openlist size = 484
+closedlist size = 789
+
+----------------
+f: 24 g: 10 h: 14
+7 8 0 4 5 3 6 1 2 
+----------------
+openlist size = 484
+closedlist size = 790
+
+----------------
+f: 24 g: 10 h: 14
+7 5 8 4 1 3 6 2 0 
+----------------
+openlist size = 484
+closedlist size = 791
+
+----------------
+f: 24 g: 10 h: 14
+7 5 8 4 1 3 0 6 2 
+----------------
+openlist size = 484
+closedlist size = 792
+
+----------------
+f: 24 g: 11 h: 13
+5 0 8 7 4 3 6 1 2 
+----------------
+openlist size = 485
+closedlist size = 793
+
+----------------
+f: 24 g: 10 h: 14
+7 5 8 6 4 3 0 1 2 
+----------------
+openlist size = 485
+closedlist size = 794
+
+----------------
+f: 24 g: 12 h: 12
+7 3 5 4 1 8 6 2 0 
+----------------
+openlist size = 485
+closedlist size = 795
+
+----------------
+f: 24 g: 13 h: 11
+7 3 5 4 1 0 6 2 8 
+----------------
+openlist size = 486
+closedlist size = 796
+
+----------------
+f: 24 g: 14 h: 10
+7 3 0 4 1 5 6 2 8 
+----------------
+openlist size = 486
+closedlist size = 797
+
+----------------
+f: 24 g: 12 h: 12
+7 3 5 4 1 8 0 6 2 
+----------------
+openlist size = 486
+closedlist size = 798
+
+----------------
+f: 24 g: 14 h: 10
+3 5 0 7 4 8 6 1 2 
+----------------
+openlist size = 486
+closedlist size = 799
+
+----------------
+f: 24 g: 14 h: 10
+3 4 5 7 0 8 6 1 2 
+----------------
+openlist size = 487
+closedlist size = 800
+
+----------------
+f: 24 g: 15 h: 9
+3 4 5 7 1 8 6 0 2 
+----------------
+openlist size = 488
+closedlist size = 801
+
+----------------
+f: 24 g: 12 h: 12
+7 3 5 6 4 8 0 1 2 
+----------------
+openlist size = 488
+closedlist size = 802
+
+----------------
+f: 24 g: 11 h: 13
+7 3 5 4 8 0 6 1 2 
+----------------
+openlist size = 489
+closedlist size = 803
+
+----------------
+f: 24 g: 12 h: 12
+7 3 5 4 8 2 6 1 0 
+----------------
+openlist size = 489
+closedlist size = 804
+
+----------------
+f: 24 g: 12 h: 12
+7 3 0 4 8 5 6 1 2 
+----------------
+openlist size = 489
+closedlist size = 805
+
+----------------
+f: 24 g: 15 h: 9
+3 4 5 0 7 8 6 1 2 
+----------------
+openlist size = 489
+closedlist size = 806
+
+----------------
+f: 24 g: 14 h: 10
+4 5 0 3 7 8 6 1 2 
+----------------
+openlist size = 489
+closedlist size = 807
+
+----------------
+f: 24 g: 14 h: 10
+4 7 5 3 1 8 6 2 0 
+----------------
+openlist size = 489
+closedlist size = 808
+
+----------------
+f: 24 g: 15 h: 9
+4 7 5 3 1 0 6 2 8 
+----------------
+openlist size = 490
+closedlist size = 809
+
+----------------
+f: 24 g: 16 h: 8
+4 7 0 3 1 5 6 2 8 
+----------------
+openlist size = 490
+closedlist size = 810
+
+----------------
+f: 24 g: 14 h: 10
+4 7 5 3 1 8 0 6 2 
+----------------
+openlist size = 490
+closedlist size = 811
+
+----------------
+f: 24 g: 13 h: 11
+4 7 5 3 8 0 6 1 2 
+----------------
+openlist size = 491
+closedlist size = 812
+
+----------------
+f: 24 g: 14 h: 10
+4 7 5 3 8 2 6 1 0 
+----------------
+openlist size = 491
+closedlist size = 813
+
+----------------
+f: 24 g: 14 h: 10
+4 7 0 3 8 5 6 1 2 
+----------------
+openlist size = 491
+closedlist size = 814
+
+----------------
+f: 24 g: 12 h: 12
+4 7 5 6 3 8 0 1 2 
+----------------
+openlist size = 491
+closedlist size = 815
+
+----------------
+f: 24 g: 15 h: 9
+7 1 2 3 5 0 4 8 6 
+----------------
+openlist size = 492
+closedlist size = 816
+
+----------------
+f: 24 g: 15 h: 9
+7 1 2 0 3 5 4 8 6 
+----------------
+openlist size = 493
+closedlist size = 817
+
+----------------
+f: 24 g: 16 h: 8
+7 1 2 4 3 5 0 8 6 
+----------------
+openlist size = 493
+closedlist size = 818
+
+----------------
+f: 24 g: 16 h: 8
+0 1 2 7 3 5 4 8 6 
+----------------
+openlist size = 493
+closedlist size = 819
+
+----------------
+f: 24 g: 15 h: 9
+7 1 2 3 8 5 4 0 6 
+----------------
+openlist size = 494
+closedlist size = 820
+
+----------------
+f: 24 g: 16 h: 8
+7 1 2 3 8 5 4 6 0 
+----------------
+openlist size = 494
+closedlist size = 821
+
+----------------
+f: 24 g: 16 h: 8
+7 1 2 3 8 5 0 4 6 
+----------------
+openlist size = 494
+closedlist size = 822
+
+----------------
+f: 24 g: 15 h: 9
+3 7 2 0 1 5 4 8 6 
+----------------
+openlist size = 495
+closedlist size = 823
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 1 5 0 8 6 
+----------------
+openlist size = 495
+closedlist size = 824
+
+----------------
+f: 24 g: 11 h: 13
+7 2 5 0 3 1 4 8 6 
+----------------
+openlist size = 496
+closedlist size = 825
+
+----------------
+f: 24 g: 12 h: 12
+7 2 5 4 3 1 0 8 6 
+----------------
+openlist size = 496
+closedlist size = 826
+
+----------------
+f: 24 g: 12 h: 12
+0 2 5 7 3 1 4 8 6 
+----------------
+openlist size = 496
+closedlist size = 827
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 3 2 1 4 8 6 
+----------------
+openlist size = 497
+closedlist size = 828
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 3 2 1 4 8 6 
+----------------
+openlist size = 497
+closedlist size = 829
+
+----------------
+f: 24 g: 11 h: 13
+7 2 5 0 8 1 3 4 6 
+----------------
+openlist size = 498
+closedlist size = 830
+
+----------------
+f: 24 g: 12 h: 12
+0 2 5 7 8 1 3 4 6 
+----------------
+openlist size = 498
+closedlist size = 831
+
+----------------
+f: 24 g: 11 h: 13
+7 2 5 4 8 0 6 3 1 
+----------------
+openlist size = 498
+closedlist size = 832
+
+----------------
+f: 24 g: 12 h: 12
+7 2 5 4 8 1 6 3 0 
+----------------
+openlist size = 498
+closedlist size = 833
+
+----------------
+f: 24 g: 14 h: 10
+7 2 5 4 1 3 6 8 0 
+----------------
+openlist size = 498
+closedlist size = 834
+
+----------------
+f: 24 g: 14 h: 10
+7 2 5 4 1 3 0 6 8 
+----------------
+openlist size = 498
+closedlist size = 835
+
+----------------
+f: 24 g: 15 h: 9
+2 0 5 7 4 3 6 1 8 
+----------------
+openlist size = 499
+closedlist size = 836
+
+----------------
+f: 24 g: 14 h: 10
+7 2 5 6 4 3 0 1 8 
+----------------
+openlist size = 499
+closedlist size = 837
+
+----------------
+f: 24 g: 13 h: 11
+7 0 5 4 2 3 6 1 8 
+----------------
+openlist size = 500
+closedlist size = 838
+
+----------------
+f: 24 g: 14 h: 10
+0 7 5 4 2 3 6 1 8 
+----------------
+openlist size = 500
+closedlist size = 839
+
+----------------
+f: 24 g: 16 h: 8
+7 3 2 4 1 5 6 8 0 
+----------------
+openlist size = 500
+closedlist size = 840
+
+----------------
+f: 24 g: 16 h: 8
+7 3 2 4 1 5 0 6 8 
+----------------
+openlist size = 500
+closedlist size = 841
+
+----------------
+f: 24 g: 18 h: 6
+3 2 0 7 4 5 6 1 8 
+----------------
+openlist size = 500
+closedlist size = 842
+
+----------------
+f: 24 g: 18 h: 6
+3 4 2 7 0 5 6 1 8 
+----------------
+openlist size = 501
+closedlist size = 843
+
+----------------
+f: 24 g: 19 h: 5
+3 4 2 7 1 5 6 0 8 
+----------------
+openlist size = 502
+closedlist size = 844
+
+----------------
+f: 24 g: 16 h: 8
+7 3 2 6 4 5 0 1 8 
+----------------
+openlist size = 502
+closedlist size = 845
+
+----------------
+f: 24 g: 15 h: 9
+7 3 2 4 5 0 6 1 8 
+----------------
+openlist size = 503
+closedlist size = 846
+
+----------------
+f: 24 g: 19 h: 5
+3 4 2 0 7 5 6 1 8 
+----------------
+openlist size = 503
+closedlist size = 847
+
+----------------
+f: 24 g: 18 h: 6
+4 2 0 3 7 5 6 1 8 
+----------------
+openlist size = 503
+closedlist size = 848
+
+----------------
+f: 24 g: 18 h: 6
+4 7 2 3 1 5 6 8 0 
+----------------
+openlist size = 503
+closedlist size = 849
+
+----------------
+f: 24 g: 18 h: 6
+4 7 2 3 1 5 0 6 8 
+----------------
+openlist size = 503
+closedlist size = 850
+
+----------------
+f: 24 g: 17 h: 7
+4 7 2 3 5 0 6 1 8 
+----------------
+openlist size = 504
+closedlist size = 851
+
+----------------
+f: 24 g: 16 h: 8
+4 7 2 6 3 5 0 1 8 
+----------------
+openlist size = 504
+closedlist size = 852
+
+----------------
+f: 24 g: 10 h: 14
+2 5 0 7 3 8 4 6 1 
+----------------
+openlist size = 504
+closedlist size = 853
+
+----------------
+f: 24 g: 10 h: 14
+2 3 5 7 0 8 4 6 1 
+----------------
+openlist size = 506
+closedlist size = 854
+
+----------------
+f: 24 g: 11 h: 13
+2 3 5 0 7 8 4 6 1 
+----------------
+openlist size = 506
+closedlist size = 855
+
+----------------
+f: 24 g: 12 h: 12
+2 3 5 4 7 8 0 6 1 
+----------------
+openlist size = 506
+closedlist size = 856
+
+----------------
+f: 24 g: 13 h: 11
+2 3 5 4 7 8 6 0 1 
+----------------
+openlist size = 507
+closedlist size = 857
+
+----------------
+f: 24 g: 14 h: 10
+2 3 5 4 7 8 6 1 0 
+----------------
+openlist size = 507
+closedlist size = 858
+
+----------------
+f: 24 g: 15 h: 9
+2 3 5 4 7 0 6 1 8 
+----------------
+openlist size = 508
+closedlist size = 859
+
+----------------
+f: 24 g: 16 h: 8
+2 3 0 4 7 5 6 1 8 
+----------------
+openlist size = 508
+closedlist size = 860
+
+----------------
+f: 24 g: 14 h: 10
+2 3 5 4 0 8 6 7 1 
+----------------
+openlist size = 510
+closedlist size = 861
+
+----------------
+f: 24 g: 15 h: 9
+2 3 5 0 4 8 6 7 1 
+----------------
+openlist size = 511
+closedlist size = 862
+
+----------------
+f: 24 g: 15 h: 9
+2 0 5 4 3 8 6 7 1 
+----------------
+openlist size = 512
+closedlist size = 863
+
+----------------
+f: 24 g: 16 h: 8
+0 2 5 4 3 8 6 7 1 
+----------------
+openlist size = 512
+closedlist size = 864
+
+----------------
+f: 24 g: 13 h: 11
+7 2 5 0 1 6 3 4 8 
+----------------
+openlist size = 513
+closedlist size = 865
+
+----------------
+f: 24 g: 14 h: 10
+0 2 5 7 1 6 3 4 8 
+----------------
+openlist size = 513
+closedlist size = 866
+
+----------------
+f: 24 g: 12 h: 12
+7 2 5 3 1 6 4 8 0 
+----------------
+openlist size = 512
+closedlist size = 867
+
+----------------
+f: 24 g: 11 h: 13
+7 2 5 0 3 6 4 1 8 
+----------------
+openlist size = 513
+closedlist size = 868
+
+----------------
+f: 24 g: 12 h: 12
+7 2 5 4 3 6 0 1 8 
+----------------
+openlist size = 513
+closedlist size = 869
+
+----------------
+f: 24 g: 12 h: 12
+0 2 5 7 3 6 4 1 8 
+----------------
+openlist size = 513
+closedlist size = 870
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 3 2 6 4 1 8 
+----------------
+openlist size = 514
+closedlist size = 871
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 3 2 6 4 1 8 
+----------------
+openlist size = 514
+closedlist size = 872
+
+----------------
+f: 24 g: 15 h: 9
+7 6 2 0 1 5 3 4 8 
+----------------
+openlist size = 515
+closedlist size = 873
+
+----------------
+f: 24 g: 16 h: 8
+0 6 2 7 1 5 3 4 8 
+----------------
+openlist size = 515
+closedlist size = 874
+
+----------------
+f: 24 g: 17 h: 7
+6 0 2 7 1 5 3 4 8 
+----------------
+openlist size = 516
+closedlist size = 875
+
+----------------
+f: 24 g: 18 h: 6
+6 1 2 7 0 5 3 4 8 
+----------------
+openlist size = 518
+closedlist size = 876
+
+----------------
+f: 24 g: 19 h: 5
+6 1 2 0 7 5 3 4 8 
+----------------
+openlist size = 519
+closedlist size = 877
+
+----------------
+f: 24 g: 20 h: 4
+6 1 2 3 7 5 0 4 8 
+----------------
+openlist size = 519
+closedlist size = 878
+
+----------------
+f: 24 g: 20 h: 4
+0 1 2 6 7 5 3 4 8 
+----------------
+openlist size = 519
+closedlist size = 879
+
+----------------
+f: 24 g: 19 h: 5
+6 1 2 7 4 5 3 0 8 
+----------------
+openlist size = 520
+closedlist size = 880
+
+----------------
+f: 24 g: 14 h: 10
+7 6 2 3 1 5 4 8 0 
+----------------
+openlist size = 520
+closedlist size = 881
+
+----------------
+f: 24 g: 13 h: 11
+7 6 2 3 5 0 4 1 8 
+----------------
+openlist size = 521
+closedlist size = 882
+
+----------------
+f: 24 g: 13 h: 11
+7 6 2 0 3 5 4 1 8 
+----------------
+openlist size = 522
+closedlist size = 883
+
+----------------
+f: 24 g: 14 h: 10
+7 6 2 4 3 5 0 1 8 
+----------------
+openlist size = 522
+closedlist size = 884
+
+----------------
+f: 24 g: 14 h: 10
+0 6 2 7 3 5 4 1 8 
+----------------
+openlist size = 522
+closedlist size = 885
+
+----------------
+f: 24 g: 15 h: 9
+6 0 2 7 3 5 4 1 8 
+----------------
+openlist size = 523
+closedlist size = 886
+
+----------------
+f: 24 g: 15 h: 9
+3 7 2 4 6 5 1 0 8 
+----------------
+openlist size = 524
+closedlist size = 887
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 0 5 1 6 8 
+----------------
+openlist size = 526
+closedlist size = 888
+
+----------------
+f: 24 g: 17 h: 7
+3 7 2 0 4 5 1 6 8 
+----------------
+openlist size = 527
+closedlist size = 889
+
+----------------
+f: 24 g: 18 h: 6
+3 7 2 1 4 5 0 6 8 
+----------------
+openlist size = 527
+closedlist size = 890
+
+----------------
+f: 24 g: 19 h: 5
+3 7 2 1 4 5 6 0 8 
+----------------
+openlist size = 527
+closedlist size = 891
+
+----------------
+f: 24 g: 18 h: 6
+0 7 2 3 4 5 1 6 8 
+----------------
+openlist size = 527
+closedlist size = 892
+
+----------------
+f: 24 g: 17 h: 7
+3 0 2 4 7 5 1 6 8 
+----------------
+openlist size = 528
+closedlist size = 893
+
+----------------
+f: 24 g: 16 h: 8
+3 2 0 6 7 5 4 1 8 
+----------------
+openlist size = 528
+closedlist size = 894
+
+----------------
+f: 24 g: 16 h: 8
+0 3 2 6 7 5 4 1 8 
+----------------
+openlist size = 528
+closedlist size = 895
+
+----------------
+f: 24 g: 19 h: 5
+7 0 2 3 1 5 6 4 8 
+----------------
+openlist size = 529
+closedlist size = 896
+
+----------------
+f: 24 g: 20 h: 4
+7 1 2 3 0 5 6 4 8 
+----------------
+openlist size = 531
+closedlist size = 897
+
+----------------
+f: 24 g: 21 h: 3
+7 1 2 3 4 5 6 0 8 
+----------------
+openlist size = 532
+closedlist size = 898
+
+----------------
+f: 24 g: 18 h: 6
+3 7 2 1 0 5 6 4 8 
+----------------
+openlist size = 533
+closedlist size = 899
+
+----------------
+f: 24 g: 19 h: 5
+3 0 2 1 7 5 6 4 8 
+----------------
+openlist size = 534
+closedlist size = 900
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 6 1 5 4 8 0 
+----------------
+openlist size = 534
+closedlist size = 901
+
+----------------
+f: 24 g: 15 h: 9
+3 7 2 6 5 0 4 1 8 
+----------------
+openlist size = 535
+closedlist size = 902
+
+----------------
+f: 24 g: 10 h: 14
+3 5 0 2 7 8 4 6 1 
+----------------
+openlist size = 535
+closedlist size = 903
+
+----------------
+f: 24 g: 10 h: 14
+0 3 5 2 7 8 4 6 1 
+----------------
+openlist size = 534
+closedlist size = 904
+
+----------------
+f: 24 g: 9 h: 15
+3 7 5 2 8 0 4 6 1 
+----------------
+openlist size = 535
+closedlist size = 905
+
+----------------
+f: 24 g: 10 h: 14
+3 7 5 2 8 1 4 6 0 
+----------------
+openlist size = 535
+closedlist size = 906
+
+----------------
+f: 24 g: 10 h: 14
+3 7 0 2 8 5 4 6 1 
+----------------
+openlist size = 535
+closedlist size = 907
+
+----------------
+f: 24 g: 9 h: 15
+3 7 5 2 6 8 4 0 1 
+----------------
+openlist size = 536
+closedlist size = 908
+
+----------------
+f: 24 g: 10 h: 14
+3 7 5 2 6 8 4 1 0 
+----------------
+openlist size = 536
+closedlist size = 909
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 2 6 0 4 1 8 
+----------------
+openlist size = 537
+closedlist size = 910
+
+----------------
+f: 24 g: 12 h: 12
+3 7 0 2 6 5 4 1 8 
+----------------
+openlist size = 537
+closedlist size = 911
+
+----------------
+f: 24 g: 10 h: 14
+3 7 5 2 6 8 0 4 1 
+----------------
+openlist size = 537
+closedlist size = 912
+
+----------------
+f: 24 g: 12 h: 12
+3 5 0 4 7 8 6 2 1 
+----------------
+openlist size = 537
+closedlist size = 913
+
+----------------
+f: 24 g: 12 h: 12
+0 3 5 4 7 8 6 2 1 
+----------------
+openlist size = 537
+closedlist size = 914
+
+----------------
+f: 24 g: 13 h: 11
+7 0 5 3 4 8 6 2 1 
+----------------
+openlist size = 538
+closedlist size = 915
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 6 4 8 0 2 1 
+----------------
+openlist size = 538
+closedlist size = 916
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 4 8 0 6 2 1 
+----------------
+openlist size = 539
+closedlist size = 917
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 4 8 1 6 2 0 
+----------------
+openlist size = 539
+closedlist size = 918
+
+----------------
+f: 24 g: 13 h: 11
+3 7 5 4 8 1 6 0 2 
+----------------
+openlist size = 540
+closedlist size = 919
+
+----------------
+f: 24 g: 14 h: 10
+3 7 5 4 0 1 6 8 2 
+----------------
+openlist size = 541
+closedlist size = 920
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 0 4 1 6 8 2 
+----------------
+openlist size = 542
+closedlist size = 921
+
+----------------
+f: 24 g: 16 h: 8
+0 7 5 3 4 1 6 8 2 
+----------------
+openlist size = 542
+closedlist size = 922
+
+----------------
+f: 24 g: 15 h: 9
+3 0 5 4 7 1 6 8 2 
+----------------
+openlist size = 543
+closedlist size = 923
+
+----------------
+f: 24 g: 12 h: 12
+3 7 0 4 8 5 6 2 1 
+----------------
+openlist size = 543
+closedlist size = 924
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 6 4 2 1 0 8 
+----------------
+openlist size = 544
+closedlist size = 925
+
+----------------
+f: 24 g: 16 h: 8
+7 5 0 3 4 2 6 1 8 
+----------------
+openlist size = 544
+closedlist size = 926
+
+----------------
+f: 24 g: 17 h: 7
+7 5 2 3 4 0 6 1 8 
+----------------
+openlist size = 545
+closedlist size = 927
+
+----------------
+f: 24 g: 16 h: 8
+7 4 5 3 0 2 6 1 8 
+----------------
+openlist size = 547
+closedlist size = 928
+
+----------------
+f: 24 g: 17 h: 7
+7 4 5 3 1 2 6 0 8 
+----------------
+openlist size = 548
+closedlist size = 929
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 0 1 2 4 6 8 
+----------------
+openlist size = 549
+closedlist size = 930
+
+----------------
+f: 24 g: 16 h: 8
+0 7 5 3 1 2 4 6 8 
+----------------
+openlist size = 548
+closedlist size = 931
+
+----------------
+f: 24 g: 15 h: 9
+3 7 5 4 1 0 6 8 2 
+----------------
+openlist size = 548
+closedlist size = 932
+
+----------------
+f: 24 g: 16 h: 8
+3 7 0 4 1 5 6 8 2 
+----------------
+openlist size = 548
+closedlist size = 933
+
+----------------
+f: 24 g: 15 h: 9
+4 3 5 0 7 2 6 1 8 
+----------------
+openlist size = 549
+closedlist size = 934
+
+----------------
+f: 24 g: 16 h: 8
+3 5 2 4 0 7 6 1 8 
+----------------
+openlist size = 551
+closedlist size = 935
+
+----------------
+f: 24 g: 17 h: 7
+3 5 2 0 4 7 6 1 8 
+----------------
+openlist size = 552
+closedlist size = 936
+
+----------------
+f: 24 g: 18 h: 6
+0 5 2 3 4 7 6 1 8 
+----------------
+openlist size = 552
+closedlist size = 937
+
+----------------
+f: 24 g: 17 h: 7
+3 5 2 4 1 7 6 0 8 
+----------------
+openlist size = 553
+closedlist size = 938
+
+----------------
+f: 24 g: 17 h: 7
+3 0 2 4 5 7 6 1 8 
+----------------
+openlist size = 554
+closedlist size = 939
+
+----------------
+f: 24 g: 16 h: 8
+3 5 2 4 7 8 6 1 0 
+----------------
+openlist size = 554
+closedlist size = 940
+
+----------------
+f: 24 g: 16 h: 8
+3 2 7 4 1 5 6 8 0 
+----------------
+openlist size = 554
+closedlist size = 941
+
+----------------
+f: 24 g: 16 h: 8
+3 2 7 4 1 5 0 6 8 
+----------------
+openlist size = 554
+closedlist size = 942
+
+----------------
+f: 24 g: 17 h: 7
+2 0 7 3 4 5 6 1 8 
+----------------
+openlist size = 555
+closedlist size = 943
+
+----------------
+f: 24 g: 18 h: 6
+2 7 0 3 4 5 6 1 8 
+----------------
+openlist size = 555
+closedlist size = 944
+
+----------------
+f: 24 g: 16 h: 8
+3 2 7 6 4 5 0 1 8 
+----------------
+openlist size = 555
+closedlist size = 945
+
+----------------
+f: 24 g: 15 h: 9
+3 2 7 4 5 0 6 1 8 
+----------------
+openlist size = 555
+closedlist size = 946
+
+----------------
+f: 24 g: 16 h: 8
+3 2 0 4 5 7 6 1 8 
+----------------
+openlist size = 554
+closedlist size = 947
+
+----------------
+f: 24 g: 14 h: 10
+0 3 7 4 2 5 6 1 8 
+----------------
+openlist size = 554
+closedlist size = 948
+
+----------------
+f: 24 g: 9 h: 15
+3 7 8 0 5 1 4 2 6 
+----------------
+openlist size = 555
+closedlist size = 949
+
+----------------
+f: 24 g: 10 h: 14
+3 7 8 4 5 1 0 2 6 
+----------------
+openlist size = 555
+closedlist size = 950
+
+----------------
+f: 24 g: 8 h: 16
+7 8 0 3 5 1 4 2 6 
+----------------
+openlist size = 555
+closedlist size = 951
+
+----------------
+f: 24 g: 9 h: 15
+7 8 1 3 5 0 4 2 6 
+----------------
+openlist size = 556
+closedlist size = 952
+
+----------------
+f: 24 g: 10 h: 14
+7 8 1 3 0 5 4 2 6 
+----------------
+openlist size = 558
+closedlist size = 953
+
+----------------
+f: 24 g: 11 h: 13
+7 8 1 3 2 5 4 0 6 
+----------------
+openlist size = 559
+closedlist size = 954
+
+----------------
+f: 24 g: 12 h: 12
+7 8 1 3 2 5 4 6 0 
+----------------
+openlist size = 559
+closedlist size = 955
+
+----------------
+f: 24 g: 12 h: 12
+7 8 1 3 2 5 0 4 6 
+----------------
+openlist size = 559
+closedlist size = 956
+
+----------------
+f: 24 g: 11 h: 13
+7 0 1 3 8 5 4 2 6 
+----------------
+openlist size = 560
+closedlist size = 957
+
+----------------
+f: 24 g: 12 h: 12
+7 1 0 3 8 5 4 2 6 
+----------------
+openlist size = 559
+closedlist size = 958
+
+----------------
+f: 24 g: 12 h: 12
+0 7 1 3 8 5 4 2 6 
+----------------
+openlist size = 559
+closedlist size = 959
+
+----------------
+f: 24 g: 13 h: 11
+7 1 5 0 2 8 3 4 6 
+----------------
+openlist size = 560
+closedlist size = 960
+
+----------------
+f: 24 g: 14 h: 10
+0 1 5 7 2 8 3 4 6 
+----------------
+openlist size = 560
+closedlist size = 961
+
+----------------
+f: 24 g: 15 h: 9
+7 0 1 3 2 5 4 6 8 
+----------------
+openlist size = 561
+closedlist size = 962
+
+----------------
+f: 24 g: 16 h: 8
+0 7 1 3 2 5 4 6 8 
+----------------
+openlist size = 561
+closedlist size = 963
+
+----------------
+f: 24 g: 16 h: 8
+7 2 1 3 0 5 4 6 8 
+----------------
+openlist size = 563
+closedlist size = 964
+
+----------------
+f: 24 g: 15 h: 9
+7 1 5 0 3 2 4 6 8 
+----------------
+openlist size = 564
+closedlist size = 965
+
+----------------
+f: 24 g: 16 h: 8
+7 1 5 4 3 2 0 6 8 
+----------------
+openlist size = 564
+closedlist size = 966
+
+----------------
+f: 24 g: 17 h: 7
+7 1 5 4 3 2 6 0 8 
+----------------
+openlist size = 565
+closedlist size = 967
+
+----------------
+f: 24 g: 16 h: 8
+0 1 5 7 3 2 4 6 8 
+----------------
+openlist size = 565
+closedlist size = 968
+
+----------------
+f: 24 g: 15 h: 9
+7 1 5 3 6 2 4 0 8 
+----------------
+openlist size = 566
+closedlist size = 969
+
+----------------
+f: 24 g: 16 h: 8
+7 1 5 3 6 2 0 4 8 
+----------------
+openlist size = 565
+closedlist size = 970
+
+----------------
+f: 24 g: 15 h: 9
+7 0 5 3 1 2 4 6 8 
+----------------
+openlist size = 565
+closedlist size = 971
+
+----------------
+f: 24 g: 11 h: 13
+7 1 5 3 8 0 4 2 6 
+----------------
+openlist size = 565
+closedlist size = 972
+
+----------------
+f: 24 g: 11 h: 13
+7 1 5 0 3 8 4 2 6 
+----------------
+openlist size = 566
+closedlist size = 973
+
+----------------
+f: 24 g: 12 h: 12
+7 1 5 4 3 8 0 2 6 
+----------------
+openlist size = 566
+closedlist size = 974
+
+----------------
+f: 24 g: 12 h: 12
+0 1 5 7 3 8 4 2 6 
+----------------
+openlist size = 566
+closedlist size = 975
+
+----------------
+f: 24 g: 11 h: 13
+3 7 5 0 1 8 4 2 6 
+----------------
+openlist size = 567
+closedlist size = 976
+
+----------------
+f: 24 g: 12 h: 12
+3 7 5 4 1 8 0 2 6 
+----------------
+openlist size = 567
+closedlist size = 977
+
+----------------
+f: 24 g: 7 h: 17
+7 5 8 0 3 1 4 2 6 
+----------------
+openlist size = 568
+closedlist size = 978
+
+----------------
+f: 24 g: 8 h: 16
+7 5 8 4 3 1 0 2 6 
+----------------
+openlist size = 568
+closedlist size = 979
+
+----------------
+f: 24 g: 8 h: 16
+0 5 8 7 3 1 4 2 6 
+----------------
+openlist size = 568
+closedlist size = 980
+
+----------------
+f: 24 g: 9 h: 15
+5 0 8 7 2 1 3 4 6 
+----------------
+openlist size = 569
+closedlist size = 981
+
+----------------
+f: 24 g: 10 h: 14
+5 2 8 7 0 1 3 4 6 
+----------------
+openlist size = 571
+closedlist size = 982
+
+----------------
+f: 24 g: 11 h: 13
+5 2 8 7 1 0 3 4 6 
+----------------
+openlist size = 572
+closedlist size = 983
+
+----------------
+f: 24 g: 12 h: 12
+5 2 0 7 1 8 3 4 6 
+----------------
+openlist size = 572
+closedlist size = 984
+
+----------------
+f: 24 g: 13 h: 11
+5 0 2 7 1 8 3 4 6 
+----------------
+openlist size = 573
+closedlist size = 985
+
+----------------
+f: 24 g: 14 h: 10
+0 5 2 7 1 8 3 4 6 
+----------------
+openlist size = 573
+closedlist size = 986
+
+----------------
+f: 24 g: 14 h: 10
+5 1 2 7 0 8 3 4 6 
+----------------
+openlist size = 575
+closedlist size = 987
+
+----------------
+f: 24 g: 15 h: 9
+5 1 2 0 7 8 3 4 6 
+----------------
+openlist size = 576
+closedlist size = 988
+
+----------------
+f: 24 g: 16 h: 8
+5 1 2 3 7 8 0 4 6 
+----------------
+openlist size = 576
+closedlist size = 989
+
+----------------
+f: 24 g: 16 h: 8
+0 1 2 5 7 8 3 4 6 
+----------------
+openlist size = 576
+closedlist size = 990
+
+----------------
+f: 24 g: 15 h: 9
+5 1 2 7 4 8 3 0 6 
+----------------
+openlist size = 577
+closedlist size = 991
+
+----------------
+f: 24 g: 16 h: 8
+5 1 2 7 4 8 3 6 0 
+----------------
+openlist size = 577
+closedlist size = 992
+
+----------------
+f: 24 g: 17 h: 7
+5 1 2 7 4 0 3 6 8 
+----------------
+openlist size = 578
+closedlist size = 993
+
+----------------
+f: 24 g: 11 h: 13
+5 2 8 0 7 1 3 4 6 
+----------------
+openlist size = 579
+closedlist size = 994
+
+----------------
+f: 24 g: 12 h: 12
+5 2 8 3 7 1 0 4 6 
+----------------
+openlist size = 579
+closedlist size = 995
+
+----------------
+f: 24 g: 12 h: 12
+0 2 8 5 7 1 3 4 6 
+----------------
+openlist size = 579
+closedlist size = 996
+
+----------------
+f: 24 g: 11 h: 13
+5 2 8 7 4 1 3 0 6 
+----------------
+openlist size = 580
+closedlist size = 997
+
+----------------
+f: 24 g: 12 h: 12
+5 2 8 7 4 1 3 6 0 
+----------------
+openlist size = 580
+closedlist size = 998
+
+----------------
+f: 24 g: 8 h: 16
+7 5 8 2 0 1 3 4 6 
+----------------
+openlist size = 582
+closedlist size = 999
+
+----------------
+f: 24 g: 9 h: 15
+7 5 8 2 1 0 3 4 6 
+----------------
+openlist size = 583
+closedlist size = 1000
+
+----------------
+f: 24 g: 10 h: 14
+7 5 0 2 1 8 3 4 6 
+----------------
+openlist size = 583
+closedlist size = 1001
+
+----------------
+f: 24 g: 11 h: 13
+7 0 5 2 1 8 3 4 6 
+----------------
+openlist size = 583
+closedlist size = 1002
+
+----------------
+f: 24 g: 12 h: 12
+0 7 5 2 1 8 3 4 6 
+----------------
+openlist size = 583
+closedlist size = 1003
+
+----------------
+f: 24 g: 13 h: 11
+2 7 5 0 1 8 3 4 6 
+----------------
+openlist size = 584
+closedlist size = 1004
+
+----------------
+f: 24 g: 14 h: 10
+2 7 5 3 1 8 0 4 6 
+----------------
+openlist size = 584
+closedlist size = 1005
+
+----------------
+f: 24 g: 9 h: 15
+7 5 8 2 4 1 3 0 6 
+----------------
+openlist size = 585
+closedlist size = 1006
+
+----------------
+f: 24 g: 10 h: 14
+7 5 8 2 4 1 3 6 0 
+----------------
+openlist size = 585
+closedlist size = 1007
+
+----------------
+f: 24 g: 9 h: 15
+7 0 8 2 5 1 3 4 6 
+----------------
+openlist size = 586
+closedlist size = 1008
+
+----------------
+f: 24 g: 10 h: 14
+0 7 8 2 5 1 3 4 6 
+----------------
+openlist size = 586
+closedlist size = 1009
+
+----------------
+f: 24 g: 11 h: 13
+2 7 8 0 5 1 3 4 6 
+----------------
+openlist size = 587
+closedlist size = 1010
+
+----------------
+f: 24 g: 12 h: 12
+2 7 8 3 5 1 0 4 6 
+----------------
+openlist size = 587
+closedlist size = 1011
+
+----------------
+f: 24 g: 12 h: 12
+7 1 5 2 0 8 3 4 6 
+----------------
+openlist size = 588
+closedlist size = 1012
+
+----------------
+f: 24 g: 13 h: 11
+7 1 5 2 4 8 3 0 6 
+----------------
+openlist size = 589
+closedlist size = 1013
+
+----------------
+f: 24 g: 14 h: 10
+7 1 5 2 4 8 3 6 0 
+----------------
+openlist size = 589
+closedlist size = 1014
+
+----------------
+f: 24 g: 15 h: 9
+7 1 5 2 4 0 3 6 8 
+----------------
+openlist size = 590
+closedlist size = 1015
+
+----------------
+f: 24 g: 16 h: 8
+7 1 0 2 4 5 3 6 8 
+----------------
+openlist size = 590
+closedlist size = 1016
+
+----------------
+f: 24 g: 11 h: 13
+3 7 2 0 8 1 4 5 6 
+----------------
+openlist size = 591
+closedlist size = 1017
+
+----------------
+f: 24 g: 12 h: 12
+3 7 2 4 8 1 0 5 6 
+----------------
+openlist size = 591
+closedlist size = 1018
+
+----------------
+f: 24 g: 10 h: 14
+7 2 0 3 8 1 4 5 6 
+----------------
+openlist size = 591
+closedlist size = 1019
+
+----------------
+f: 24 g: 11 h: 13
+7 2 1 3 8 0 4 5 6 
+----------------
+openlist size = 592
+closedlist size = 1020
+
+----------------
+f: 24 g: 12 h: 12
+7 2 1 3 0 8 4 5 6 
+----------------
+openlist size = 594
+closedlist size = 1021
+
+----------------
+f: 24 g: 13 h: 11
+7 2 1 3 5 8 4 0 6 
+----------------
+openlist size = 595
+closedlist size = 1022
+
+----------------
+f: 24 g: 14 h: 10
+7 2 1 3 5 8 4 6 0 
+----------------
+openlist size = 594
+closedlist size = 1023
+
+----------------
+f: 24 g: 14 h: 10
+7 2 1 3 5 8 0 4 6 
+----------------
+openlist size = 594
+closedlist size = 1024
+
+----------------
+f: 24 g: 15 h: 9
+7 2 1 3 5 0 4 6 8 
+----------------
+openlist size = 594
+closedlist size = 1025
+
+----------------
+f: 24 g: 10 h: 14
+7 8 2 3 1 6 4 5 0 
+----------------
+openlist size = 594
+closedlist size = 1026
+
+----------------
+f: 24 g: 11 h: 13
+7 8 2 3 1 6 4 0 5 
+----------------
+openlist size = 594
+closedlist size = 1027
+
+----------------
+f: 24 g: 12 h: 12
+7 8 2 3 1 6 0 4 5 
+----------------
+openlist size = 594
+closedlist size = 1028
+
+----------------
+f: 24 g: 10 h: 14
+7 8 0 3 1 2 4 5 6 
+----------------
+openlist size = 594
+closedlist size = 1029
+
+----------------
+f: 24 g: 11 h: 13
+7 0 8 3 1 2 4 5 6 
+----------------
+openlist size = 595
+closedlist size = 1030
+
+----------------
+f: 24 g: 12 h: 12
+0 7 8 3 1 2 4 5 6 
+----------------
+openlist size = 595
+closedlist size = 1031
+
+----------------
+f: 24 g: 12 h: 12
+7 1 8 3 0 2 4 5 6 
+----------------
+openlist size = 597
+closedlist size = 1032
+
+----------------
+f: 24 g: 13 h: 11
+7 1 8 3 5 2 4 0 6 
+----------------
+openlist size = 598
+closedlist size = 1033
+
+----------------
+f: 24 g: 14 h: 10
+7 1 8 3 5 2 4 6 0 
+----------------
+openlist size = 598
+closedlist size = 1034
+
+----------------
+f: 24 g: 14 h: 10
+7 1 8 3 5 2 0 4 6 
+----------------
+openlist size = 598
+closedlist size = 1035
+
+----------------
+f: 24 g: 9 h: 15
+7 8 2 0 3 1 4 5 6 
+----------------
+openlist size = 599
+closedlist size = 1036
+
+----------------
+f: 24 g: 10 h: 14
+7 8 2 4 3 1 0 5 6 
+----------------
+openlist size = 599
+closedlist size = 1037
+
+----------------
+f: 24 g: 10 h: 14
+0 8 2 7 3 1 4 5 6 
+----------------
+openlist size = 599
+closedlist size = 1038
+
+----------------
+f: 24 g: 11 h: 13
+8 0 2 7 5 1 3 4 6 
+----------------
+openlist size = 600
+closedlist size = 1039
+
+----------------
+f: 24 g: 10 h: 14
+7 8 2 5 0 1 3 4 6 
+----------------
+openlist size = 602
+closedlist size = 1040
+
+----------------
+f: 24 g: 11 h: 13
+7 8 2 5 1 0 3 4 6 
+----------------
+openlist size = 603
+closedlist size = 1041
+
+----------------
+f: 24 g: 11 h: 13
+7 8 2 5 4 1 3 0 6 
+----------------
+openlist size = 604
+closedlist size = 1042
+
+----------------
+f: 24 g: 12 h: 12
+7 8 2 5 4 1 3 6 0 
+----------------
+openlist size = 604
+closedlist size = 1043
+
+----------------
+f: 24 g: 11 h: 13
+7 0 2 5 8 1 3 4 6 
+----------------
+openlist size = 605
+closedlist size = 1044
+
+----------------
+f: 24 g: 12 h: 12
+0 7 2 5 8 1 3 4 6 
+----------------
+openlist size = 605
+closedlist size = 1045
+
+----------------
+f: 24 g: 12 h: 12
+3 2 0 8 7 5 4 6 1 
+----------------
+openlist size = 605
+closedlist size = 1046
+
+----------------
+f: 24 g: 12 h: 12
+0 3 2 8 7 5 4 6 1 
+----------------
+openlist size = 605
+closedlist size = 1047
+
+----------------
+f: 24 g: 11 h: 13
+3 7 2 8 5 0 4 6 1 
+----------------
+openlist size = 606
+closedlist size = 1048
+
+----------------
+f: 24 g: 12 h: 12
+3 7 2 8 5 1 4 6 0 
+----------------
+openlist size = 606
+closedlist size = 1049
+
+----------------
+f: 24 g: 11 h: 13
+3 7 2 8 6 5 4 0 1 
+----------------
+openlist size = 607
+closedlist size = 1050
+
+----------------
+f: 24 g: 12 h: 12
+3 7 2 8 6 5 4 1 0 
+----------------
+openlist size = 607
+closedlist size = 1051
+
+----------------
+f: 24 g: 12 h: 12
+3 7 2 8 6 5 0 4 1 
+----------------
+openlist size = 607
+closedlist size = 1052
+
+----------------
+f: 24 g: 13 h: 11
+3 7 2 0 6 5 8 4 1 
+----------------
+openlist size = 608
+closedlist size = 1053
+
+----------------
+f: 24 g: 14 h: 10
+3 7 2 6 0 5 8 4 1 
+----------------
+openlist size = 609
+closedlist size = 1054
+
+----------------
+f: 24 g: 15 h: 9
+3 0 2 6 7 5 8 4 1 
+----------------
+openlist size = 610
+closedlist size = 1055
+
+----------------
+f: 24 g: 14 h: 10
+0 7 2 3 6 5 8 4 1 
+----------------
+openlist size = 610
+closedlist size = 1056
+
+----------------
+f: 24 g: 16 h: 8
+3 2 0 4 7 8 6 1 5 
+----------------
+openlist size = 610
+closedlist size = 1057
+
+----------------
+f: 24 g: 16 h: 8
+0 3 2 4 7 8 6 1 5 
+----------------
+openlist size = 610
+closedlist size = 1058
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 1 8 6 5 0 
+----------------
+openlist size = 610
+closedlist size = 1059
+
+----------------
+f: 24 g: 17 h: 7
+3 7 2 4 1 0 6 5 8 
+----------------
+openlist size = 610
+closedlist size = 1060
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 1 8 0 6 5 
+----------------
+openlist size = 610
+closedlist size = 1061
+
+----------------
+f: 24 g: 17 h: 7
+7 0 2 3 4 8 6 1 5 
+----------------
+openlist size = 611
+closedlist size = 1062
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 6 4 8 0 1 5 
+----------------
+openlist size = 611
+closedlist size = 1063
+
+----------------
+f: 24 g: 14 h: 10
+3 7 0 4 8 2 6 1 5 
+----------------
+openlist size = 611
+closedlist size = 1064
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 5 1 0 6 8 
+----------------
+openlist size = 611
+closedlist size = 1065
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 4 0 1 6 5 8 
+----------------
+openlist size = 612
+closedlist size = 1066
+
+----------------
+f: 24 g: 17 h: 7
+3 7 2 0 4 1 6 5 8 
+----------------
+openlist size = 613
+closedlist size = 1067
+
+----------------
+f: 24 g: 18 h: 6
+0 7 2 3 4 1 6 5 8 
+----------------
+openlist size = 613
+closedlist size = 1068
+
+----------------
+f: 24 g: 17 h: 7
+3 0 2 4 7 1 6 5 8 
+----------------
+openlist size = 614
+closedlist size = 1069
+
+----------------
+f: 24 g: 14 h: 10
+3 7 0 4 5 2 6 8 1 
+----------------
+openlist size = 614
+closedlist size = 1070
+
+----------------
+f: 24 g: 15 h: 9
+3 7 2 6 4 5 8 0 1 
+----------------
+openlist size = 614
+closedlist size = 1071
+
+----------------
+f: 24 g: 16 h: 8
+3 7 2 6 4 5 8 1 0 
+----------------
+openlist size = 614
+closedlist size = 1072
+
+----------------
+f: 24 g: 16 h: 8
+7 2 0 3 4 5 6 8 1 
+----------------
+openlist size = 614
+closedlist size = 1073
+
+----------------
+f: 24 g: 16 h: 8
+7 4 2 3 0 5 6 8 1 
+----------------
+openlist size = 616
+closedlist size = 1074
+
+----------------
+f: 24 g: 15 h: 9
+4 3 2 0 7 5 6 8 1 
+----------------
+openlist size = 617
+closedlist size = 1075
+
+----------------
+f: 24 g: 15 h: 9
+3 2 5 4 7 0 6 8 1 
+----------------
+openlist size = 618
+closedlist size = 1076
+
+----------------
+f: 24 g: 16 h: 8
+3 2 5 4 7 1 6 8 0 
+----------------
+openlist size = 618
+closedlist size = 1077
+
+----------------
+f: 24 g: 17 h: 7
+3 2 5 4 7 1 6 0 8 
+----------------
+openlist size = 619
+closedlist size = 1078
+
+----------------
+f: 24 g: 18 h: 6
+3 2 5 4 0 1 6 7 8 
+----------------
+openlist size = 621
+closedlist size = 1079
+
+----------------
+f: 24 g: 19 h: 5
+3 2 5 4 1 0 6 7 8 
+----------------
+openlist size = 622
+closedlist size = 1080
+
+----------------
+f: 24 g: 20 h: 4
+3 2 0 4 1 5 6 7 8 
+----------------
+openlist size = 622
+closedlist size = 1081
+
+----------------
+f: 24 g: 21 h: 3
+3 0 2 4 1 5 6 7 8 
+----------------
+openlist size = 623
+closedlist size = 1082
+
+----------------
+f: 24 g: 22 h: 2
+3 1 2 4 0 5 6 7 8 
+----------------
+openlist size = 625
+closedlist size = 1083
+
+----------------
+f: 24 g: 23 h: 1
+3 1 2 0 4 5 6 7 8 
+----------------
